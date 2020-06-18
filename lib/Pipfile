@@ -6,8 +6,10 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-flask-peewee = "*"
+flask-peewee = {editable = true, git = "https://github.com/coleifer/flask-peewee.git"}
 psycopg2-binary = "*"
+flask-admin = "*"
+flask-security = "*"
 
 [requires]
 python_version = "3.8"

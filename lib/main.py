@@ -13,9 +13,9 @@ api.setup()
 
 def create_tables():
     # db.database.create_tables([User], safe=True)
-    db.database.create_tables([ExploreCard])
+    db.database.create_tables([ExploreCard], safe=True)
 
 
 if __name__ == '__main__':
     create_tables()
-    app.run()
+    app.run(port=5000, debug=True)

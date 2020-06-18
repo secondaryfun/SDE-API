@@ -1,7 +1,7 @@
 from flask import render_template
 
 from app import app
-from models import User
+# from models import User
 
 # from auth import auth
 

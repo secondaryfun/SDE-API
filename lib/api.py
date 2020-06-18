@@ -1,4 +1,4 @@
-from flask_peewee.rest import RestAPI, RestResource, UserAuthentification
+from flask_peewee.rest import RestAPI, RestResource
 from app import app
 from models import *
 
@@ -9,5 +9,3 @@ from models import *
 api = RestAPI(app)  # To Add for authorization: default_auth=user_auth
 
 api.register(ExploreCard)
-
-api.setup()
