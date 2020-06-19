@@ -1,0 +1,1434 @@
+id,NAME,Quick Sort,TYPE,AFFINITY,MOVE,AP,STR,ARM,WILL,DEX,HEART,SK/PN,BIT,ABILITIES,ACTIONS,CARD BACK,FLAVOR,PRODUCT,REALM,STATUS,
+1,Crystal Weaver,mini-boss,CONSTRUCT MINI-BOSS,purple,7,3,"Melee 1
+5B",2B 1R,1B,4B,7,4,SUPER,Crystal Curse,"(Red 2) Crystalline Web: Melee, Wave 1, Slow
+
+(Red 1) Mighty Leap: Melee 1, Pounce
+
+(Blue 1) Seize Prey: Range 1, DEX Vs. DEX. Place the target adjacent to this model at the end of this model's activation.",,"The Midnight Tower is guarded by any number of nefarious traps, henchmen, and monsters. But none compare to the Crystal Weaver in pure corruption and unfeeling malignance. Once a sacred keeper of the Goddess Chamber, the Crystal Weaver was one of the wonders of Crystalia. That the Midnight Queen was able to taint it in both heart and form is a stain upon the land. Once in the shape of a mighty knight, the golem has taken on the twisted form of one of the Queen's spiders, and stalks the halls of her tower hunting down unfortunate Heroes with unfeeling adeptness. ",Crystal Golem,Midnight Tower,Complete,
+2,Tanchyo Yajiri,monster,TANCHYO MINION,Emerald,7,2,2B,0W,2B,"Missile 8
+3B",2,2,8-Bit,Retribution,,,"The north of Kagejima is dominated by vast expanses of sheltering forests. Dozens or hundreds of feet above the forest floor, clever dwellings dot the boughs and trunks, connected by walkways and rope bridges. These are the villages of clan Tanchyo. Living in the canopy, every member of clan Tanchyo has become an expert climber and marksman, as there is no better way to protect their tree-top homes. The archers of the Tanchyo, the Yajiri, are both plentiful and exceptionally skilled.",Clan Tanchyo,Kagejima,Complete,
+3,Moon Princess,Hero,HUMAN HERO,Citrine/Ruby,6,3,"Melee 2
+2R",1B 1R,"Magic 6
+2R",3B,5,2,,Moon's Blessing,"(Red 2) Moonbeam: Magic, Lance 4
+
+(Red 2) Moonlit Blade: Melee, Cross 2
+
+(Green Potion) Tears of the Princess: Augment, Heal 1 for each Princess Coin that was spent this game.
+
+(Blue Potion) Bottled Starlight: Augment, +2 Move, Proficient",,"Schooled since birth in the ancient, esoteric arcana of her family, the Moon Princess sometimes tires of merely watching the Moonlight Tournament. Sometimes, she wishes to pit her own strange and terrible power against the warriors competing to do her honor. Several true assassinations have been attempted during the Tournament, and surely more will come. In truth, this danger is part of what makes these outings so appealing.",Moon Princess,Kagejima,Complete,
+4,Mr. Milky,Pet,CYPHER PET,Citrine,6,1,"Melee 1
+1B 1R",2W,2W,2W,2,2,,Master gains Luck (2),"(Blue 1) Sustenance: Augment, Range 3. Roll 1R. Heal 1 for each star rolled.",,"Like many knights, Bang-Bang programmed her loyal cypher in Super Dungeon to play alongside her. But unlike most cyphers, Mr. Milky insists on playing his own character rather than leaving it up to a potentially clumsy AI. He hops up on a stool, furiously mashing the buttons in order to provide the Heroes with proper healing in their time of need. And all who play with him always appreciate it, a dedicated healer can be hard to find. They even graciously overlook his unusual method of healing.",Bang-Bang,Castle Town,Complete,
+5,Black Snow,Hero,HUMAN HERO,Citrine,6,3,"Melee 1
+2R","Def
+3B",2B,3B,5,1,,I Know Nothing,"(Red 2) Frostblade: Melee 1, +1G STR, Ice
+
+(Blue 1) I Have Returned: Augment, This model makes one basic melee attack for each Princess Coin the party has spent this game, up to a maximum of three. This action may only be taken once per turn.
+
+(Green Potion) Glacial Draught: Augment, Heal 1 and gain Black Ice","Black Ice: 
+https://drive.google.com/open?id=1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y
+
+Heal:
+https://drive.google.com/open?id=1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y
+
+Ice:
+https://drive.google.com/open?id=1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y
+
+I Know Nothing: A model with this ability may not use the Open Chest action.
+
+","Wandering the frozen expanses of Frostbyte Reach the outcast noble, Black Snow, watches for signs of the return of the Lich King. He hopes to one day end his watch and return to a life of peace and warmth. He wonders if he will succeed, on this... he knows nothing. ","NJD202082
+Black Snow",Frostbyte Reach,Complete,
+6,Steelhorse Candy,Hero,HUMAN HERO,Emerald/Sapphire,7,3,"Melee 1
+3B",2R,2B,"Missile 6
+3B",5,1,,Surefoot,"(Red 2) Ride On Through: Melee, Lance 6, Charge
+
+(Blue 2) Lead Storm: Augment, Until the end of this model's activation, after moving two spaces, this model may make a basic missile attack. At the end of this model's activation it must discard one equipment card from the backpack.
+
+(Blue Potion) Trucker Brew: Augment, +1 Action. This model suffers one wound.","Charge:
+
+Surefoot:
+
+https://drive.google.com/open?id=1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y
+","Lost in a strange new land, Steelhorse Candy rides through the dungeons of Crystalia searching for a way home.","NJD202070
+Steelhorse Candy",Castle Town,Complete,
+7,Celebration Candy,Hero,HUMAN HERO,Citrine,6,3,"Melee 1
+2R",3B,2B,3B,5,2,,Alchemy,"(Red 2) Soda Detector: Melee 1, +2R STR
+
+(Red 2) Cake Toss: Missile 5, Burst 1, Knockdown
+
+(Blue Potion) Nothing But Frosting: Augment, Heal 1, Remedy
+
+(Blue Potion) Sugar Crash: Wave 2, Slow","Alchemy:
+
+Heal X:
+
+Knockdown:
+
+Remedy:
+
+Slow:
+
+https://drive.google.com/open?id=1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y
+","Join Candy and Cola in celebrating their 10th Anniversary! 
+
+Soda Pop Miniatures would like to thank all of our incredible fans, old and new, who have joined us on our adventures!","NJD202068
+Celebration Candy",,Complete,
+8,Ryu,Hero,HUMAN HERO,Citrine,6,3,"Melee 1
+2R",3B,3B,2B,5,1,,Protector,"(Red 2) Avenge the Weak: Melee 1, gain +1B STR during this action for each wound this Hero is suffering.
+
+(Red 2) At Your Side: Place this Hero adjacent to another Hero that has two or more wound tokens. Then, this Hero may make one melee attack against each adjacent enemy.
+
+(Green Potion) Soothing Herbs: Heal 2, Remedy","Heal X:
+
+Protector: 
+
+Remedy:
+
+https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#","After falling prey to bandits, Ryu was saved by wandering monks. As he grew in their monastery, Ryu soon became a strong and focused fighter with an understandable hatred for those who preyed on the weak. ","NJD202056
+Ryu",Kagejima,Complete,
+9,Mochizuki,Hero,HUMAN HERO,Emerald/Ruby,5,3,"Melee 1
+2B",3B,2R,"Missile 5
+3B",5,1,,Dread,"(Red 2) Strike From The Shadows: Magic 5, if this offensive action causes a wound, this Hero may be placed adjacent to another Hero.
+
+(Red 2) Assassin's Curse: Magic 5, +1R WILL, Mark
+
+(Blue Potion) Smoke Bombs: Augment, Aura 2, Stealth","Dread:
+
+Mark: 
+
+Stealth:
+
+https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#","Mochizuki eschews her school’s preference for subtle poisons or the concealed tanto in favor of the shock and power of paired pistols. Mochizuki is famed for appearing an instant before she turns her guns upon her target in a blaze of flame and thunder, and then vanishing again into the smoke.","NJD202054
+Mochizuki",Kagejima,Complete,
+10,Makerguild Engineer,Hero,DWARF HERO,Emerald/Sapphire,5,3,"Melee 1
+3B",2B,3B,"Missile 5
+2R",6,2,,Fortify,"(Red 2) Exploding Rocket Fist: Dangerous, Melee 3, +1B STR, Burst 1
+
+(Red 2) Wrench Whack: Melee 1, +1R STR, Massive Damage
+
+(Green Potion 1) Flubber Coating: Augment, +1B ARM, Spongy
+
+(Blue Potion 2) Concussion Grenade: Dangerous, Range 3, Burst 2, Hex, Knockdown  
+","Fortify:
+
+Hex:
+
+Knockdown:
+
+Massive Damage:
+
+Spongy:
+
+https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#","I have just the thing, and I think it works!","NJD202071
+Makerguild Engineer",Clockwork Cove,Complete,
+11,Nagari Archpoisoner,Hero,NAGARI HERO,Emerald,7,3,"Melee 1
+2B",3B,1B1R,"Missile 6
+3B",5,2,,"Poison, Immune: Poison","(Red 2) Crimson Shot: Missile 6, +2B DEX, Bleed
+
+(Red 2) Wither Away: Missile 6, +1R DEX, Bane
+
+(Blue Potion) Poison Coating: Augment, All offensive actions this activation gain +2B and Poison.
+
+(Blue Potion) Virulence: Augment, Aura 3, Virulent","Bane:
+
+Bleed:
+
+Immune: Poison
+
+Poison:
+
+Virulent:",Whether or not these sinister agents truly serve the Light is a matter of much debate.,"NJD202035
+Nagari Archpoisoner",Wandering Monks,Complete,
+12,Master of Chains,Hero,RIFTLING HERO,Ruby,6,3,2B,3B,"Magic 1
+2B1R",3B,5,1,,Predator,"(Red 2) This Hurts Me Too: Magic 1, +2R WILL, Ravage
+
+(Blue 1) Chains of Love: Range 6, WILL vs WILL, Pull 5
+
+(Green Potion 1) Slime Slave: Augment, One Use Only, Free Coin 
+
+(Blue Potion 1) Araphel's Wine: Augment, Oracle","Free Coin:
+
+One Use Only:
+
+Oracle:
+
+Predator:
+
+Ravage:
+
+https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit","Skilled in breaking enemies’ wills and enslaving weaker minds, beware the snare of a priestess of Araphel! ","NJD204014
+Master of Chains",Midnight Tower,Complete,
+13,Mizaru,Hero,YAMAZARU HERO,Citrine/Ruby,6,3,"Melee 2
+3B",3B,"Magic 4
+3B",2R,5,1,,Read The Wind,"(Red 2) No Place To Hide: Melee 2, +1G STR, Immobile
+
+(Red 2) Angry Winds: Magic, Wave 1, Push 2
+
+(Blue 1) Acute Senses: Augment. Aura 3. Friendly models may reroll one die after rolling dice for any reason.
+
+(Blue Potion) Sensei Sake: Augment. Wisdom","Immobile: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.yg34p2ijeteg
+
+
+Read The Wind: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.pjptr46c4hxo
+
+Wisdom: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.rh1syoboid5n","At age fourteen, Mizaru lost his sight due to a witch’s curse. His story might have ended there except that he refused to become bitter. He, instead, focused his anger into overcoming the setbacks his injury initially posed. Honing his senses until he could navigate trails by the sway and sound of his scabbard, identify others by scent, and track any movement by the slightest noise, Mizaru eventually became captain of the Yamazaru’s famed scouts.",Mizaru,Kagejima,Complete,
+14,Mizuchi,Hero,IKA HERO,Emerald,6,3,"Melee 1
+3B",3B,2B,"Missile 4
+3B",5,1,,Sidestep,"(Red 2) Skewer: Missile, Lance 4, +1R DEX
+
+(Blue 1) Flashing Spear: Augment. Aura 4. Friendly models may not be targeted by offensive actions, unless the model taking the action is adjacent to its target.
+
+(Blue Potion) The Ocean's Grace: +3 Move",Sidestep: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.f7sro3ord1xv,"Cutting through the water with uncanny speed, like the silver tip of a spear, Mizuchi has defeated flotillas three times her own numbers and ships ten times the weight of her craft. Serious in demeanor, strategically clever, and ruthless in battle, Mizuchi’s ship, the Honor of Ishika, and a hail of fire arrows, are often the last things would-be invaders ever see.","NJD202057
+Mizuchi",Kagejima,Complete,
+15,Yokozuna,Hero,Human Hero,,6,3,"Melee 1
+3R",3B,3B,2B,7,-,,"Immune: Poison, Liver of Steel","(Red 2) Deashi Charge: Melee, Wave 1
+
+(Red 3) Belly Bump: Melee 1, +1R STR, Massive Damage, Push 2
+
+(Blue 2) Dohyo-Iri: Magic, Wave 3, WILL v WILL, Compel 3, Knockdown","Immune: Poison
+
+Knockdown
+
+Liver of Steel
+
+Massive Damage
+
+https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit
+","Ever eager to help, ever ready with a smile, a kind word, or a joke, Yokozuna commonly hoists an inebriated Shojo onto his ample shoulders. Curiously, he rarely drinks. Rumors say he drank whole taverns dry in his youth without becoming drunk, something Shojo considers a staggering tragedy.
+","NJD202048
+Yokozuna",Kagejima,Complete,
+16,Frozen Queen,Hero,Human Hero,Ruby,6,3,2B,3B,"Magic 6
+3B",3B,5,1,,"Ice, Immune: Ice","(Red 2) Stay Away: Magic, Wave 1, Push 3
+
+(Red 3) Frozen Heart: Magic 3, +2B WILL, Massive Damage
+
+(Blue 1) Personal Flurry: Augment, Aura 3, Stealth
+
+(Blue Potion) Build a Snowman: Range 1, Immobile, Ice","Ice:
+
+Immobile:
+
+Immune: Ice
+
+Massive Damage","Most believe the Frozen Queen is not truly evil despite her frequent conflicts with the Heroes of Crystalia. Indeed, the Frozen Queen has been known to assist Heroes in dire times of need. What prompts this assistance none can say.","NJD202039
+Frozen Queen",Frostbyte Reach,Complete,
+17,Fed-Up Farmer,Hero,FREYJAN HERO,Citrine,7,3,"Melee 3
+3B",3B,2B,3B,5,1,,9 Lives,"(Red 2) Get Off My Land!: Melee 3, +1R STR, Massive Damage, Push 2
+
+(Blue 1) Don't Need Yer Fancy City Gizmos: Augment. Discard one loot equipped to this model to take two basic attack actions.
+
+(Green Potion) The Land Provides: Augment. All Heroes on or adjacent to difficult terrain squares and !X SPAWNING POINT ICON X! squares Heal 2.","9 Lives: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.i04bh72vnil0
+
+Heal: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.evgkcvlle3v7
+
+Massive Damage: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.f7zrn8eyokn5","""I don't know nothin' 'bout bein' no fancy city Hero from Crystalia Castle. I may be just a simple mouse farmer, but I know this: I'm sick and tired o' these Goddess-durned monsters traipsing all over my land! I've had enough! Hand me my pitchfork, sonny. It's time to show these city-folk how it's done...""","NJD202036
+Fed-Up Farmer",Glauerdoom,Complete,
+18,Ice Climber Candy,Hero,Human Hero,Citrine/Emerald,6,3,"Melee 2
+2B 1R",3B,2B,3B,5,2,,Burrow,"(Blue 1) Stay Together: Augment, Range 6, Place target friendly model into a square adjacent to Ice Climber Candy. 
+
+(Blue 1) Frostbyte Explorer: Augment, Aura 2, Hunter, Slayer
+
+(Red Potion) Campfire: Melee 1, +1R STR, Fire 
+
+(Blue Potion) Tent: One Use Only. Remove a Princess Coin from this Hero and return it to the backpack.","Burrow
+
+Heal X:
+
+Hunter:
+
+Slayer:","Those thieving orcs came through this way. They met the kobolds here. Looks like there was a scuffle. After the dust settled they made camp together. And over here ... over here .... is where they drank my soda. 
+
+They're all gonna pay!","NJD20214
+Ice Climber Candy",Frostbyte Reach,Complete,
+19,Kringle,Hero,Faerie Hero,Sapphire,5,3,1B,2B 1R,"Magic 6
+2R",2B,6,2,,"Nice List, Luck","(Blue 1) Naughty List: Range 6, WILL v WILL, target and all models represented by the same card suffer Bane.
+
+(Blue 1) Snug in Their Beds: Augment, Aura 3, +1B ARM 
+
+(Blue Potion) Peppermint Hot Chocolate: Augment, Heal 2, Immune: Status Effects 
+
+","Bane:
+
+Heal X:
+
+Immune: Status Effects
+
+Luck:
+
+Nice List:","The winter solstice is a time of family and celebration for the citizens of Crystalia. Warm around their hearths, sipping on mugs of hot chocolate, they tell stories of the mischievous faerie known as Kringle who rewards those who have been nice and punishes the naughty.","NJD202037
+Kringle",Frostbyte Reach,Complete,
+20,Bang-Bang,Hero,HUMAN HERO,Emerald,6,3,"Melee 1
+3B",3B,2B,"Missile 6
+2R",5,1,,"Pet: Mr. Milky, Wind of Blades","(Red 2) Deadeye: Missile 6, +1R DEX, Massive Damage
+
+(Blue 1) Covering Fire: Augment, Range 6. Target another Hero. All offensive actions targeting the Hero reduce the result by 1W. This action may only be taken once per turn.
+
+(Green Potion) A Tall Cool Glass: Augment. Heal 2. Remedy.",,"When Bang-Bang made a Super Dungeon character, she wanted to try something different. She played everything from mage to paladin, but it never felt right. Finally she settled on a pair of trusty flintlocks. They weren't so different from what she used every day, but she knew how to use them. And at least she had a wide selection of costumes. Most recently she has been rocking the witch hunter look to annoy Tahariel. ",Bang-Bang,Castle Town,Complete,
+21,Benkei,Hero,HUMAN HERO,Citrine,5,3,"Melee 4
+3B",2R,3B,2B,5,1,,Tough,"(Red 3) Heavenly Strike: Melee 4, +1R STR, Massive Damage, Improved Critical
+
+(Blue 2) Blind Onslaught: Augment, this model makes three basic melee attacks without spending action points and then suffers one wound.
+
+(Blue Potion) Potion of Might: Augment, Brutal Strike",,"Devotion to duty is a hallmark of many on Kagejima. For Benkei, devotion to duty is a defining characteristic. While his martial skill serves him well, it is his utter devotion to the Moon Throne that imparts his famous strength and fearlessness. They say that the gods could not move Benkei when he takes a stand in the Princess’s name.",Benkei,Kagejima,Complete,
+22,Crystal Shaper,Hero,ELF WITCH HERO,Ruby,7,3,2B,3B,"Magic 6
+2R",3B,5,1,,Crystal Shaping,"(Red 2) Jagged Growth: Magic, Wave 1, Immobile
+
+(Blue 2) Crystal Encrusted: Range 3. Select any status effect token and place it on any piece of equipment equipped to a Hero within range. The Hero causes the status effect while they have the chosen equipment equipped. Remove the token the next time this action is taken.
+
+(Green Potion) Shimmering Concoction: Augment, double all ARM bonuses granted by equipment.",,"In The Time Before, when only the Starlight Sea swirled within the cosmos, crystals were born in the etherium. Concentrated bits of arcana, emotion, and directionless will, the Goddess paired their primordial energy with her own to form Crystalia. Shapers tap into the Dark Realm to warp and reform crystals’ energies. While this can unlock incredible potential, it can also be easily abused.",Crystal Shaper,Midnight Tower,Complete,
+23,Cupid,Pet,CYPHER PET,Emerald,6,1,2W,2W,2W,"Missile 6
+2B",2,2,,"Fly, Master gains Potion Master (2)","(Blue 1) Cupid's Arrow: Dangerous, Range 6. Compel 3.",,"Knights often program their cypher into Super Dungeon to accompany them as a pet, and Tahariel is no exception. Cupid doesn't actually play himself, but he does watch his digital version over Tahariel's shoulder and shout encouragement when he's not whispering dark secrets about the nature of esper and the universe. ",Tahariel,Castle Town,Complete,
+24,Gnomish Excavator,dungeon boss,GNOME DUNGEON BOSS,Emerald,4,4,4R,2G,3B,"Missile 10
+2R 2G",10,4,SUPER,"Immune:Knockdown, Immune: Immobile, Burrow, Run Down","(Red 1) Juggernaut: Melee, Lance 4, Charge, this action affects models regardless of LoS.
+
+(Red 1) Fragmentation Shell: Missile 10, Burst 2, Knockdown. This model must discard a crystal shell token from a square it occupies in order to take this action.
+
+(Red 1) Concussion Shell: Missile 10, Massive Damage. This model must discard a crystal shell token from a square it occupies in order to take this action.",,BOOM BOOM BOOM BWAHAHAHA!,Gnomish Excavator,Dragonback Mines,Complete,
+25,Hanzo,Hero,HUMAN HERO,Citrine,6,3,"Melee 2
+1B 1G",3B,2B,2B 1R,5,1,,Mastery,"(Red 2) Flowing Blade: Melee, Wave 1
+
+(Blue 1) Puff of Smoke: Dangerous, Range 6, DEX Vs. DEX, Hanzo and the target switch locations on the board. May not target spawning points.
+
+(Blue Potion) Paralyzing Toxin: Augment, +1B STR, Immobile",,"Hanzo has been called many things over his long and storied life: master, teacher, monster. His team won the Moonlight Tournament twenty-two years ago through legendary speed and infamous cunning. He displayed all these qualities in the Sun Empire, but added another—treachery—for the first and only time, a Kagejima shinobi decided to stay with the Sun Court.",Hanzo,Kagejima,Complete,
+26,House Phoenix Pugilist,Hero,KITSUNE HERO,Citrine,6,3,"Melee 1
+3B",2R,2B,3B,5,1,,Surefoot,"(Blue 2) Punch, punch, punch!: Perform a basic melee attack. If it succeeds, move two spaces and make another basic melee attack against another target using one less die. Repeat this until there are no new targets, an attack misses, or there are no dice left.
+
+(Red 2) The Finisher: Melee 1, +1R STR, Massive Damage
+
+(Blue Potion) Ringside Canteen: Augment, Feint, +1B STR",,"The students of House Phoenix are fiery fighters, and their pugilists are the pride of their house. There is nothing the Dark Consul can throw at them that they can't pulverize, pummel, or otherwise punch into submission with their massive gauntlets. Pugilists are highly sought after by parties who need a little more hitting power as they confront the forces of darkness.",House Phoenix Pugilist,Castle Town,Complete,
+27,Jorogumo,dungeon boss,SPIDER DUNGEON BOSS,Citrine,6,4,"Melee 3
+2B 2G",2B 2R,1R 1G,3R,8,4,SUPER,"Poison, Immune: Poison, Surefoot, Webs","(Red 1) Spin Webs: Magic, Wave 1, this offensive action gains Massive Damage against models suffering Poison.
+
+(Red 1) Silk Noose: Missile 8, Pull 6
+
+(Blue 1) Feed on Essence: Heal 1 for each model suffering Poison within three squares and LoS. This action may only be taken once per activation.",,"
+A horror, a cautionary tale, and a powerful opponent; the spider women called Jorogumo are terrifying and beautiful. They are descended from a witch. Centuries ago, she haunted the rivers and lakes of Kagejima and rescued the unwary or unfortunate from drowning. Full of kind words, she helped them to her home, and gave them dry clothes and warm soup. Slowly, she poisoned them, wrapped them in paralyzing power, and used them for dark and terrible spells. The magics she worked were too much for the land to bear, and Kagejima itself cursed this wicked woman with a shape that evoked her horrid nature. This terrible judgment carried to her offspring, who came to bear her form and her name. Now they plague Kagejima, luring the unsuspecting into their lairs and pouncing on unwary travelers. ",Jorogumo,Kagejima,Complete,
+28,Karura,Hero,TANCHYO HERO,Citrine,5,3,"Melee 1
+3B",3B,2B,3B,5,1,,"Fly, Saboteur","(Red 1) From The Sky: Melee 1, Pounce
+
+(Blue 1) Snares: Wave 1, STR Vs. DEX, Immobile
+
+(Blue Potion) Inventor's Muse: Augment, Improved Critical",,"Karura’s inquisitive nature has led him to tinker endlessly, and he has invented many wonderful things. The latest of these, a contraption of snares, wires, pulleys, and hooks, allows him to fly between trees, cliffs, and rooftops with all the grace and speed of his beloved avian cousins.",Karura,Kagejima,Complete,
+29,Kitsune Chunin,mini-boss,KITSUNE MINI-BOSS,Citrine,5,3,"Melee 2
+2R",1B 1G,3B,2R,7,4,SUPER,"Territorial, Poison, Surefoot","(Red 2) Cunning Blade: Melee, Cross 2.
+
+(Blue 2) Hit And Run: Augment. Perform a basic offensive action. If it succeeds, move this model up to two squares and perform a basic offensive action against another target. Repeat this until this model fails an offensive action or there are no new targets.
+
+(Blue 1) New Territory: Augment. The tile this model is on counts as the third tile for the purposes of the Territorial ability on monsters.",,"The Kitsune Chunin is the leader of the Kitsune Kunoichi. No outsider knows how the Chunin is chosen from the ranks of the Kunoichi, but it is speculated that Kunoichi are allowed to challenge the current Chunin for the title, ensuring that the strongest and most cunning is always in charge. He or she always wears a face-covering in battle to protect their identity should they choose to leave any survivors. The Chunin is equipped with the most deadly of the concoctions for which the Kitsune are famed, often using these poisons to coat their weapons.",Clan Kitsune,Kagejima,Complete,
+30,Kitsune Kaiken,monster,KITSUNE MINION,Citrine,5,1,"Melee 1
+2B",1W,2B,3B,1,1,8-Bit,"Territorial, Surefoot","(Red 1) Fox Strike: Melee 1, Pounce",,"The Kitsune inhabit the western faces of the mountains of Kagejima. These lands are covered in lush, wet forests which are full of strange and unpredictable kami. There are many tales of strange occurrences in these lands, such as travelers entering a village and emerging a century later over the course of what seemed to them a single night. Uncounted people have become lost in the twisting forests of the Kitsune, and the deeper one goes into their territory, the greater the danger grows. Kaiken are the backbone of the Kitsune forces that tend to the secret paths and hidden villages of the Kitsune.",Clan Kitsune,Kagejima,Complete,
+31,Kitsune Kunoichi,monster,KITSUNE ELITE,Emerald,7,2,2B,2B,3B,"Missile 4
+3B",2,2,8-Bit,"Territorial, Surefoot","(Red 1) Let Them Come: Melee, Wave 1
+
+(Blue 1) Foxy: Augment, Aura 3, Stealth",,"Kitsune teach their children to navigate the fickle forests in which they dwell at a young age. Being able to brave the wood in order to harvest potent herbs is necessary to become an adult in Kitsune society. Those youngsters who show particular adeptness at navigating their lands soon become Kaiken, trusted with guarding the paths. When they have mastered that, they are taught the ways of the Yajiri, how to use the forests themselves against their enemies. Only when they have mastered both the path of Kaiken and Yajiri will they gain the rank of Kunoichi.",Clan Kitsune,Kagejima,Complete,
+32,Kitsune Madoushi,paired spawning point,KITSUNE PAIRED SPAWNING POINT,Ruby,2,1,1B,1W,"Magic 6
+1B",2B,3,3,START/16-Bit,"Active Spawn, Territorial, Surefoot","(Blue 1) Command of Kitsune: Augment, Range 3, target Kitsune monster immediately makes a basic offensive action.
+
+(Blue 1) Fox's Grace: Augment, Range 6, Heal 1. This action may not target spawning points.",Spawning Pool: *INSERT SPAWNING POOL*,"The Madoushi of the Kitsune clan are the masters of the healing herbs for which the Kitsune are known, as well as masters of the forest itself. They can sense pathways that nobody else can, quickly directing more Kitsune into the fight. They decide when the Kitsune are to take to battle. While the Kitsune are not under the sway of the Dark Consul, his influence has made all the clans of Kagejima more war-like, and the Madoushi are suspicious, likely to call the might of the Kitsune against complete strangers who wander into their territory.",Clan Kitsune,Kagejima,Complete,
+33,Kitsune Oni,monster,KITSUNE ELITE,Citrine,5,2,"Melee 3
+2B 1R",3B,2B,3B,2,2,16-Bit,"Territorial, Surefoot","(Red 2) Clear The Forest: Melee, Sweep 2
+
+(Red 2) Strike The Heart: Melee 3, +1B STR, Massive Damage",,"The Oni of the Kitsune are the physical manifestations of the forest kami themselves. They take on the monstrous, fox-like shape that belies their mischievous and fickle nature and fight alongside the Kitsune clan during times of great strife...or simply when they feel like it. In battle they are ferocious, cutting down any who dare to tread too far into their forests without permission.",Clan Kitsune,Kagejima,Complete,
+34,Kitsune Yajiri,monster,KITSUNE MINION,Emerald,5,1,2B,0W,3B,"Missile 6
+2B",1,1,8-Bit,"Territorial, Surefoot","(Red 1) Darts From The Reeds: Missile 6, Retreat",,"The Kitsune Yajiri strike from the shadows of their twisted forests. Unwanted travelers will be pelted with darts, only to find that the Yajiri have vanished back into the depths of the wood. This tactic is not just used in order to allow the Yajiri escape, but to lure the trespassers deeper into the wood, where they will surely become lost and perish either due to the elements or the whims of a vengeful kami. The Kitsune territory is not a place for those who do not know its paths and secrets well, and the Yajiri use the landscape to its fullest effect.",Clan Kitsune,Kagejima,Complete,
+35,Leopold Magnus,Hero,HUMAN HERO,Ruby,6,3,3B,3B,"Magic 3
+2R",2B,5,1,,"Deadly Defense, Pet: Static","(Red 2) Psychic Overload: Magic 6, +1B WILL, Arc
+
+(Blue 1) Essence Drain: Augment, Range 3. Whenever target Hero causes a wound with an offensive action, the Hero Heals 1.
+
+(Blue Potion) Distilled Essence: Augment, Dark Radiance.",,"Leopold Magnus is not one of the more pleasant individuals in the Last Galaxy, and he is no more pleasant when he joins a game of Super Dungeon. He frequently destroys monsters other Heroes did most of the damage to, takes all the loot, and runs off laughing. Even so, he is a skilled Hero player, and he can frequently be a huge asset to his party.",Leopold Magnus,Castle Town,Complete,
+36,"Randy, Lrod of Spiders",mini-boss,HUMAN LROD MINI-BOSS,Emerald/Citrine,5,3,3B,1W 1R,3B,"Missile 6
+2G",7,4,SUPER,"Surefoot, Webs","(red 2) Get out!: Melee, Wave 1, Push 3
+
+(blue 1) Power Nap: Augment. Heal 1. This action may only be taken once per turn.
+
+(blue 2) Summon Minions: Augment. Spawn two skull points of 8-Bit monsters within three squares of Randy, then Randy suffers two wounds.",,"The last galaxy is a place where mighty knights clash with the forces of the void, and a battle for survival rages. But that doesn't mean that the arcades will manage themselves. Randy has been charged with the sacred duty of managing one such arcade. Annoyed at customers who continually vaporize his place of work with high tech weaponry, Randy decided to program himself into his favorite game. But a typo prevented him from being a proper lord, even in a game...","Randy, Lrod of Spiders",Glauerdoom,Complete,
+37,Star Guild Rock Singer,Hero,DWARF HERO,Ruby,6,3,3B,3B,"Magic 4
+3B",2B,6,1,,Immune: Knockdown,"(red 3) Falling Star: Dangerous. Magic 16, Burst 2. Hookshot.
+
+(red 2) Iron's Call: Magic, Cross 2, +1R WILL.
+
+(blue 1) Calm The Stones: Augment, Aura 4. Burrow. 
+
+(blue potion) Starlight Elixir: Augment, Heal 2, +2 Move.",,"High atop the peaks of the world, the Star Guild watches the sky. In great choruses, the Rock Singers call to the heavens, with the Song of Stars. Their song awakens the spirit of the stars and draws fragments of starmetal to the earth. In her lifetime a Rock Singer may only ever succeed in calling a few ounces of this precious metal, but with it the guild works wonders.",Starguild Rock Singer,Faewood,Complete,
+38,Static,Pet,CYPHER PET,Ruby,6,1,2W,2W,"Magic 4
+2B",2W,2,2,,Master gains Bane (2),"(Red 1) Psychic Snare: Magic 4, this offensive action deals one additional wound to the target for each status effect token on it.",,"Leopold Magnus programmed his cypher in order to inflict maximum suffering. The Super Dungeon version of Static delights in attacking monsters that are burdened with status effects, often cleaning up after Leopold, or distracting the other Heroes while Leopold gets away with the loot.",Leopold Magnus,Castle Town,Complete,
+39,Sun Empire Wandering Samurai,Hero,HUMAN HERO,Citrine,6,3,"Melee 1
+2R",3B,2B,3B,5,1,,Feint,"(Red 2) Into the Fray: Melee, Lance 6, Charge
+
+(Blue 1) Behind Me, Peasant: Augment, Defender
+
+(Green Potion) Serpent's Grace: Augment, Counterstrike",,"Ever watchful for weakness, the Sun Empire’s agents can turn up anywhere, and discovering them and sending them politely on their way has become a game among many clans. Of late, though, many skilled warriors of the Sun Court have turned up, and offered their services to interested parties. Such is the cut-throat nature of Kagejima’s politics—especially the prestige attached to the Moonlight Tournament—that they often find those willing to employ them.",Sun Empire Wandering Samurai,Kagejima,Complete,
+40,Tahariel,Hero,MALEAACH HERO,Ruby,6,3,2B,2R,"Magic 9
+1B 1G",3B,5,2,,"Fly, Pet: Cupid","(Red 2) Stare Into The Void: Magic, Lance 4
+
+(Blue 1) Entropy Rift: Augment, Aura 3, Improved Critical
+
+(Green Potion) Voidroot: Augment. When this model suffers a wound, roll 3B. If any hearts are rolled, the wound is ignored.
+
+(Blue Potion) Memory Corruption: Augment. This model may reroll one die during every roll it makes.",,"Tahariel first played the Last Galaxy's most popular video game, Super Dungeon, in order to corrupt it from the inside. She programmed her character to blight those around her, increasing the severity of wounds they suffered. But soon she found that even a maleaach void witch, harbinger of the Calamity, could relax on occasion and enjoy some pixelated fun.",Tahariel,Castle Town,Complete,
+41,Tamamo No Mae Hero,Hero,KITSUNE HERO,Ruby,6,3,2B,3B,"Magic 4
+2R",3B,5,1,,Surefoot,"(Red 2) Flush Out The Prey: Magic 4, Burst 1
+
+(Blue 1) Allure: Dangerous, Range 6, WILL Vs. WILL, Compel 3
+
+(Blue Potion) Foxglove: Augment, Territorial",,"There has always been a Tamamo no Mae. For as long as people have walked the mist-haunted forests of northern Kagejima, Tamamo no Mae has watched them. Few, they freely admit, can resist her enticing call. None, they darkly concede, escape her traps.",Clan Kitsune,Kagejima,Complete,
+42,Tanchyo Chunin,mini-boss,TANCHYO MINI-BOSS,Emerald,7,3,3B,2W,3B,"Missile 6
+2B 2R",7,4,SUPER,"Retribution, Vengeful Storm","(Red 1) The Arrow Senses The Way: Missile 6, Hookshot
+
+(Red 1) Reposition: Missile 6, Retreat
+
+(Blue 2) Storm of Arrows: Augment, this model makes three basic missile attacks without spending action points and then suffers one wound.",,"The Tanchyo are known throughout Kagejima for their archery skills, and the Chunin are those who have proven themselves above and beyond even their fellow Tanchyo. Each village only has a single Chunin. Sometimes this individual is a hero of a great battle. Sometimes they have proven themselves in an archery contest. But all Tanchyo Chunin are deadly opponents who can single-handedly rain down a storm of arrows.",Clan Tanchyo,Kagejima,Complete,
+43,Tanchyo Kaiken,monster,TANCHYO MINION,citrine,7,2,"Melee 1
+2R",0W,2B,2B,2,2,8-Bit,Retribution,"(Red 2) A Silent Knife: Melee 1, Massive Damage. If the target has no other friendly models within two squares, gain +1G STR.",,"For the Tanchyo, close-quarters fighting is rare. They live their lives among tree branches and rain arrows down on any who threaten their homes. But there are times that a blade is necessary. In such times, the Tanchyo call upon their Kaiken. Where other clans have swordsmen as the bulk of their forces, Tanchyo Kaiken are rare and highly trained. They are only called upon in the most dire of circumstances.",Clan Tanchyo,Kagejima,Complete,
+44,Tanchyo Kunoichi,monster,TANCHYO ELITE,Citrine/Emerald,7,2,"Melee 2
+3B",1W,3B,3B,2,2,8-Bit,Retribution,"(Red 2) The Dancing Blade: Melee, Wave 2
+
+(Blue 1) Requiem: Augment, Aura 3. Models in the area gain +1R to offensive actions taken due to Retribution.",,"Clan Tnachyo form incredibly close-knit family ties. The loss of a member is an acute pain, and vengeance is always swift and decisive. The Kunoichi are those who have lost a family member in combat and vowed to seek vengeance. They have dedicated themselves to the art of war, so that no other Tanchyo family has to know their pain. All-out war on Kagejima has been avoided thanks to the Moon Court, but small skirmishes are common, and clan Tanchyo is very suspicious of outsiders, often leading them into conflict with strangers who stray too far into their lands.",Clan Tanchyo,Kagejima,Complete,
+45,Tanchyo Madoushi,spawning point,TANCHYO SPAWNING POINT,Ruby,2,1,2B,1W,"Magic 4
+3B",2B,3,3,START/16-Bit,"Active Spawn, Retribution","(Blue 1) Raven Feather: Augment, Aura 6, Fly",Spawning Pool: *INSERT SPAWNING POOL*,"The Madoushi of clan Tanchyo have received the blessings of the Tengu, often even taking on the physical appearance of the Tengu themselves. They are masters of the wind, and use their magic to allow their fellow Tanchyo to soar through the air, getting them into the fight at impossible speeds as they race through the treetops.",Clan Tanchyo,Kagejima,Complete,
+46,Tanchyo Oni,monster,TANCHYO ELITE,Citrine,7,3,"Melee 2
+1W 2B",1B 1R,3B,3B,3,3,16-Bit,"Retribution, Fly","(Red 1) Cyclone: Magic, Lance 6
+
+(Blue 1) To The Sky: Target an adjacent model. Place the target adjacent to this model at the end of this model's activation.",,"Tanchyo Oni are the physical incarnations of the kami that stalk the dense forests that the Tanchyo call home. They take the form of massive birds of prey, and they hold command over air, creating furious cyclones that can sweep their opponents from the trees they call home. Tanchyo Oni are particularly fearsome, and they are only called upon by the clan in the most dire and desperate of circumstances.",Clan Tanchyo,Kagejima,Complete,
+47,Tengu,mini-boss,TENGU MINI-BOSS,Citrine/Ruby,6,3,"Melee 1
+2B",1B 1G,"Magic 6
+1W 2R",3B,7,4,SUPER,"Fly, Hubris","(Red 2) The Curse of Gold: Magic 6, +1R WILL, if the target has two equipped items it suffers Bane, if it has more than two equipped items it suffers Bane and Fire.
+
+(Red 2) The Curse of Coin: Melee 1, the target suffers one additional wound for each Princess Coin on its card.
+
+(Blue 1) The Curse of Drink: Wave 8, WILL Vs. DEX, Heroes must discard all potion tokens.",,"For centuries, the Tengu have bartered or traded their magical and martial skill to the competing clans of Kagejima. Sometimes they do so for gold, for more offerings at their shrines, or for shiny baubles. Other times the requests are more unusual, such as whispers of love from a beautiful woman, the first wail of a newborn, or thirty stems of saffron.",Tengu,Kagejima,Complete,
+48,Uzumaki,Hero,KITSUNE HERO,Emerald,6,3,3B,2R,2R,"Missile 3
+2B 1R",5,1,,"Quick Strike, Surefoot","(Red 1) Storm of Daggers: Missile, Sweep 1
+
+(Blue 1) Charisma: Dangerous, Wave 2, WILL Vs. WILL, Compel 2
+
+(Green Potion) Ancestor's Blessing: All Heroes roll their WILL. The Hero that rolls the highest removes all wound tokens. Reroll ties.",,"While most Kitsune distrust outsiders and prefer to stay in their loamy, fern-shrouded forests, Uzumaki is often the first to greet travelers and offer them warding runes and medicines in exchange for stories of the world beyond.",Uzumaki,Kagejima,Complete,
+49,Zenyo Ryu,Hero,TANCHYO HERO,Emerald,7,3,2B,2R,3B,"Missile 5
+2R",5,1,,Wind of Blades,"(Red 2) A Feather For Each Eye: Missile 5, Massive Damage
+
+(Blue 2) Storm of Arrows: Augment, this model makes three basic missile attacks and then suffers one wound.
+
+(Blue Potion) Spitevine: Augment, gain +1B to offense rolls for each Princess Coin that was spent this game.",,"Among the Tanchyo clan, archery is the highest art of war. Few practitioners of this art are as renowned as the woman called Zenyo Ryu, or more simply, The Dragon. She has learned to build customized ammunition, employing crescent arrowheads for cutting rope, whistling noise makers to signal her friends or soldiers, and long, narrow points she calls fangs for piercing armor.",Clan Tanchyo,Kagejima,Complete,
+50,Howl & Yip,Hero,HUMAN HERO,Citrine,6,3,"Melee 1
+3B",2R,2B,3B,5,1,,Yip's Wrath,"(Red 2) The Blade Knows The Way: Melee, Wave 1
+
+(Red 2) My Life For Yours: Melee 1, +1G STR,  Ravage
+
+(Green Potion) A Bottle For Baby: Augment. Heal 2, Squirrely","Heal X: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.evgkcvlle3v7
+
+Ravage: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.2f9jfmmsqzzm
+
+Squirrely: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.s5o2zwluhj4e
+
+Yip's Wrath: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.x025u376ml79
+
+Knockdown","A highly skilled warrior of strange disposition, Howl, and the small child he calls Yip wander Kagejima living the rough life of a ronin. They say, in a past life, he fell in love with a bewitching kunoichi, and she with him. He did not discover her betrothal to her clan’s lord until after their son was born. To preserve honor, he gave up his name and swore revenge on the lord.",Howl & Yip,Kagejima,Complete,
+51,Kappa,mini-boss,ONI MINI-BOSS,Sapphire,5,3,"Melee 1
+1B 2R",3R,2B 1R,2B,6,4,SUPER,"Backlash, Sturdy","(Red 2) Shell Spin: Melee, Wave 2
+
+(Red 1) The Kappa's Curse: Magic 6, Immobile
+
+(Red 1) Fickle Kappa: Dangerous. Throw 6
+","Backlash: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.pqdr9uxbg26
+
+Immobile: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.yg34p2ijeteg
+
+Sturdy: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.psumvhstcgj7
+
+Throw: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.vd162a31vqw0","The Kappa are wild, dangerous kami who inhabit Kagejima’s lakes, rivers, and swamps. Wily and withdrawn by nature, they can be found overturning boats and drowning unwary children. Despite this, several clans have successfully coaxed these exceptionally strong and stealthy creatures into performing services…often with the sacrifice of food, livestock, or even the village elder’s firstborn child.",Kappa,Kagejima,Complete,
+52,Night Hunter,Hero,HUMAN HERO,Emerald/Ruby,6,3,2B,3B,"Magic 6
+3B","Missile 6
+2R",5,2,,,"(Red 2) Silver Bullet: Missile 6, +1B DEX, Massive Damage, Improved Critical
+
+(Red 2) Cleansing Light: Magic, Lance 4
+
+(blue potion) The Goddess's Forgiveness: Augment. Remedy, Blessed Strike
+
+(green potion) The Goddess's Justice: Augment. This model immediately makes a basic offensive action.","Blessed Strike: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.acyoasvz6tow
+
+Improved Critical: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.48o2ezf67jnx
+
+Massive Damage: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.f7zrn8eyokn5
+
+Remedy: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.tj4pfn7ru74j","Crystalia is home to all manner of undead, witches, demons, and things that go bump in the night. Some of these things, such as Sanctioned Witches and Gloomborn Champions, have seen the light of the Goddess. In such cases, they must be watched carefully to make sure that they do not stray from the light. If they do, a Night Hunter will be sent to find them.",Night Hunter,Glauerdoom,Complete,
+53,Onibaba,Dungeon Boss,ONI DUNGEON BOSS,Citrine/Ruby,6,4,"Melee 1
+5B 1R",3R,"Magic 6
+4R",3B,9,4,SUPER,Blood Drinker,"(Blue 1) Feed, My Children: All other monsters may take a basic offensive action. This action may only be taken once per turn.
+
+(Red 2) Devouring Horror: Melee 1, Brutal Strike, on a critical success discard up to one equipment from the target and equip it to this model.
+
+(Red 2) Crippling Miasma: Magic, Wave 2, Bane","Bane: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.9omp97gkodaq
+
+Blood Drinker: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.8mbv79a3tnjf
+
+Brutal Strike: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.xcj34v6bwv8z","As a mortal, Onibaba would lure stragglers from battles into her traps, finish them off, and sell their possessions. One night, however, she pulled a finely crafted mask from a dark and terrible samurai, and slipped it on over her face. In that instant, the dark power from within the mask touched the festering rot in her soul and consumed her. Soon the mortal hag was gone, replaced by an ageless, devouring horror that has stalked Kagejima’s places of slaughter ever since.",Onibaba,Kagejima,Complete,
+54,Rainbow Dragoon,Hero,CELESTIAN HERO,Citrine/Ruby,6,3,"Melee 1
+2B",2B,"Magic 3
+1R",2B,5,1,,"Fly, Prismatic Armory","(Red 2) Over The Rainbow: Melee, +1R STR, Lance 4, Charge
+
+(Red 2) Prismatic Spray: Magic, Wave 1, Hex
+
+(blue potion) Borrowed Strength: Augment. Select a piece of loot equipped to another Hero within four squares and LoS. This Hero gains all benefits as if it had the selected loot equipped.","Charge: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.wo11831matar
+
+Fly: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.h0plbx8biyjm
+
+Hex: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.40d66f1kcf9h
+
+Prismatic Armory: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.25avc53hke0x","The Rainbow Falls is one of the most beautiful and idyllic places in all of Celestia. But this beautiful scenery is also the training ground of one of Celestia's most deadly forces: the Rainbow Dragoons. These warriors are trained in every manner of combat and weapon imaginable, and they have access to a vast armory, making them fearsome opponents for the forces of darkness.",Rainbow Dragoon,Celestia,Complete,
+55,Shojo,Hero,IKA HERO,Ruby,6,3,3B,2R,"Magic 3
+2R",2B,5,3,,Keep The Sake Flowing,"(Red 2) Sake Tsunami: Magic 3, +2R WILL
+
+(Red Potion) Dreadful Draught: Magic 3, Poison
+
+(Blue Potion) Another Round: Augment. This model may reroll one die after any roll.
+
+(Blue Potion) Burning Brew: Augment. Fire. +1B to offense rolls.
+
+(Green Potion) Night Cap: Augment. Heal 2","Fire: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.eqc1r74zs1me
+
+Heal: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.evgkcvlle3v7
+
+Keep The Sake Flowing: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.q7eodolelzp4
+
+Poison: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.7sazydrlgz62","The captain of the magnificent trading vessel, Tako-Tako, is as famous for her wild ways as for her wondrous wares. Shojo loves a party, and she brings one (or more) with her wherever she makes berth. A fearless navigator, she is equally masterful with the sword, which she hastily employs with typhoon fury—so long as the sake lasts, that is.",Shojo,Kagejima,Complete,
+56,Son Goku,Hero,YAMAZARU HERO,Citrine,6,3,"Melee 3
+3B",3B,4B,3B,5,1,,Born Lucky,"(Red 2) Mighty Tetsubo Smash: Melee 3, +2B STR, Massive Damage
+
+(Blue 1) Point And Laugh: Range 6, WILL Vs. WILL, Pull 6, Immobile
+
+(Blue Potion) Monkey's Lucky Drink: Augment. Look at the top two cards of the treasure deck (discard and re-draw any non-treasure). Choose one of the cards and gain all of its effects as if it was equipped, then discard the cards.","Born Lucky: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.k4pp56gb4ns
+
+Immobile: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.yg34p2ijeteg
+
+Massive Damage: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.f7zrn8eyokn5","Son Goku was born with the aspect of the monkey. His high spirits and care-free attitude are matched only by his skill, agility, and wanderlust. He showed his nature quite young, when the village elders sent him to train with the clan's warriors at the age of seven. Son Goku yearns to travel abroad, Kagejima is simply too small to contain him. ",Clan Yamazaru,Kagejima,Complete,
+57,Yagyu Jubei,Hero,HUMAN HERO,Citrine,7,3,"Melee 1
+2R",2R,3B,2B,5,1,,"Parry, Selfless","(Red 2) Leaping Strike: Melee 1, +1G STR, Pounce
+
+(Blue 2) Storm of Swords: This model makes a basic melee attack against each enemy in range.
+
+(Blue Potion) Swordsman's Sake: Augment. +1B STR. Feint.","Feint: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.ge8mlykfwtw1
+
+Parry: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.kwsjd9q0r3jd
+
+Pounce: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.4vqdu09hhhlg
+
+Selfless: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.kw14hl89wzwv","Yagyu Jubei had heard tales of the Moonlight Tournament for years before finally daring the passage to Kagejima to experience the tournament for himself. He has informed the Sun Court that he will not be returning soon; there is simply too much to see, and Jubei has sworn to discover all he can.",Yagyu Jubei,Kagejima,Complete,
+58,Yamazaru Chunin,mini-boss,YAMAZARU MINI-BOSS,Citrine,7,3,"Melee 3
+2R 2B",3B,1B 2R,2G,7,4,SUPER,Shiny Bauble,"(Red 2) Spinning Tetsubo: Missile, Wave 3
+
+(Red 1) Monkey's Paw: Magic 3, Bane
+
+(Blue 1) Endless Curiosity: Discard the the top card of the treasure deck. If it is not a treasure, discard until one is reached. Until the end of the next Hero turn, all monsters with Shiny Bauble gain the benefits of the treasure as if they had it equipped.","Bane: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.9omp97gkodaq
+
+Shiny Bauble: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.ishd51xm3b4a","The Yamazaru are naturally curious and playful. They love new trinquets and fun items, and this even spills over into how they arm themselves for battle. Often, the Yamazaru Chunin is simply the one with the newest weapon, biggest club, or the most new trinquets to share with his or her fellow Yamazaru.",Clan Yamazaru,Kagejima,Complete,
+59,Yamazaru Kaiken,monster,YAMAZARU MINION,Citrine,7,1,"Melee 1
+3B",1W,2B,3B,1,1,8-Bit,Shiny Bauble,"(Red 1) The Mountain Sees: Magic, Wave 1, Ice","Ice: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.ko2w3xj1jql9
+
+Shiny Bauble: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.ishd51xm3b4a","While the Yamazaru value stoicism and hard-edged practicality as survival traits, they see the harsh cold of their mountain homes as good reason to be warm and open in their lives. The weather often limits travel, forcing clan members to live closely with others. They gleefully play pranks, engaging in ""wars of smiles"" with neighboring villages. This gives the Yamazaru kaiken who fight side by side a warm bond rarely seen in the other clans.",Clan Yamazaru,Kagejima,Complete,
+60,Yamazaru Kunoichi,monster,YAMAZARU MINION,Citrine/Emerald,7,1,"Melee 1
+3B",0W,3B,"Missile 4
+3B",1,1,8-Bit,Shiny Bauble,"(Red 1) The Mountain Disapproves: Magic 6, Hex
+
+(Red 1) The Mountain Sees: Magic, Wave 1, Ice","Hex: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.40d66f1kcf9h
+
+Ice: Ice: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.ko2w3xj1jql9
+
+Shiny Bauble: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.ishd51xm3b4a","Yamazaru warriors are famous for unmatched feets of natural stamina. They engage in an activity called ""catching snow"" where they stand completely still for days. They swim wide mountain lakes without coming up for air. And many engage in the ritual called ""The Mountain Sees"" where they test their spiritual endurance in the treacherous mountain peaks. The Yamazaru kunoichi have mastered all of these feets.",Clan Yamazaru,Kagejima,Complete,
+61,Yamazaru Madoushi,spawning point,YAMAZARU SPAWNING POINT,Ruby,2,1,2B,1W,"Magic 6
+3B",2B,3,3,START/16-Bit,"Active Spawn, Shiny Bauble","(Blue 1) Mountain Flute: Range 6, WILL Vs. WILL, Push 6, Slow","Shiny Bauble: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.ishd51xm3b4a
+
+Slow: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.smqjyeqc5qk8
+
+Active Spawn: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.3ebd1h8ljyrv
+
+Spawning Pool:
+1 x Yamazaru Madoushi (spawning point)
+2 x Yamazaru Kaiken
+1 x Yamazaru Yajiri
+1 x Yamazaru Oni
+1 x Yamazaru Kunoichi","The Yamazaru madoushi are the spiritual leaders of the Yamazaru, often calling them to arms with the soft sounds of a mountain flute.",Clan Yamazaru,Kagejima,Complete,
+62,Yamazaru Oni,monster,YAMAZARU ELITE,Citrine,7,4,"Melee 3
+2B 1R",2B 1R,1B,3B,4,4,16-Bit,"Improved Critical, Shiny Bauble","(Red 2) Yamazura's Tail: Missile, Wave 3, Knockdown","Improved Critical: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.48o2ezf67jnx
+
+Knockdown: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.7hpy790b5a2
+
+Shiny Bauble: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.ishd51xm3b4a","The Yamazaru have rich spiritual lives which has granted them an intimate connection with their mountain home and the creatures that dwell there. The mighty monkey oni are fierce companions of the Yamazaru, defending them in times of danger and playfully playing tricks on them during times of peace.",Clan Yamazaru,Kagejima,Complete,
+63,Yamazaru Yajiri,monster,YAMAZARU MINION,Emerald,7,1,3B,1W,2B,"Missile 6
+3B",1,1,8-Bit,Shiny Bauble,"(Red 1) The Mountain Disapproves: Magic 6, Hex","Hex: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.40d66f1kcf9h
+
+Shiny Bauble: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.ishd51xm3b4a","Yamazaru yajiri are expert marxmen, often hunting in blinding snow and among rocky mountain peaks. They brave the harsh, freezing conditions with a smile, bringing back game to be shared by their household. During times of strife they are called to action, where their skill with a bow is highly valued.",Clan Yamazaru,Kagejima,Complete,
+64,Nu-Koa Seraph,Hero,NU-KOA HERO,Citrine/Ruby,6,3,"Melee1
+3B","Def
+2R","Magic 6
+2R",2B,5,1,,"Fly, Tough","(red 2) Drain Life: Magic 6, Massive Damage. Any friendly Hero may Heal 1 for each wound inflicted.
+
+(blue 1) Arcane Manipulation: WILL Vs. WILL, Wave 2, Compel 2
+
+(blue 1) Channel: Augment, Aura 3, Fortify
+
+(blue potion) Mind Sap: Augment. This Hero's offensive actions gain +1B for each enemy adjacent to them, to a maximum of +3B.","Fly: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.h0plbx8biyjm
+
+Tough: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.cwvqkfykuidx
+
+Massive Damage: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.f7zrn8eyokn5
+
+Fortify:","Seraphs derive their arcane power from a deep, almost instinctual, understanding of the self. This understanding extends even to others, allowing the Seraph to tap into the arcane potential of those around them, often sapping the energy of their opponents to bolster their comrades.","NJD202033
+Nu-Koa Seraph",Wandering Monk,Complete,
+65,Frozen Queen,Dungeon Boss,Human Dungeon Boss,Sapphire,6,4,2B,1W4B,"Magic 6
+1W6B",3B,8,4,SUPER,"Build a Snowman, Ice, Immune: Ice, Surefoot","(Red 2) Stay Away: Magic, Wave 3, Push 3
+
+(Red 2) Frozen Heart: Magic 6, +2W WILL, Immobile
+
+(Blue 1) Personal Flurry: Augment, Range 6, Stealth Aura
+
+
+
+","Build a Snowman:
+
+Ice:
+
+Immobile:
+
+Immune: Ice
+
+Stealth Aura:",,,,Complete,
+66,Onryo,Dungeon Boss,Undead Ghost Dungeon Boss,Amethyst,6,4,2B,3R,"Magic 6
+2R 2G",2B 2R,8,4,SUPER,"Ghost, Ghostmancer, Immune: Status Effects","(Blue 1) Cursed Vision: Wave 3, WILL vs WILL, Immobile, Bane
+
+(Blue 1) Unfortunate Accident: Range 8, WILL vs WILL, Target model makes a single basic attack of Onryo's choice against itself.
+
+(Red 2) Final Day: Magic 1, +1G WILL, Massive Damage. This attack ignores Princess Coins.  
+
+","Bane:
+
+Ghost:
+
+Ghostmancer:
+
+Immobile:
+
+Immune: Status Effects
+
+Massive Damage:
+","Into the darkness, under the trees. Into the water, follow me please. ","NJD203013
+Onryo",Kagejima,Complete,"1.Onryo - Explore
+2.Onryo - Boss Fight
+3.Chochin-Obake - Explore
+4.Onryo - Arcade
+5.Chochin-Obake - Arcade
+6.The Tape - Relic
+7.Burial Robes - Treasure
+8.Ofuda - Treasure
+9.Cursed Remains - Treasure
+10.Lock of Hair - Treasure
+11.Torment Knife - Treasure
+12.Treasured Toy - Treasure
+
+
+"
+67,Chōchin-Obake,Creep,Undead Ghost Creep,Amethyst,6,2,1B,3B,"Magic 1
+1G",3B,1,1,8-Bit,"Ghost, Illumination,  Immune: Status Effects","(Red 2) Siphon Life: Magic 1, If this attack inflicts wounds, a friendly dungeon boss or mini-boss may heal an equal number of wounds. This Chōchin-Obake is then removed from play.","Ghost:
+
+Illumination:
+
+Immune: Status Effects",When spirits seek to break the veil between life and death it is the Chōchin-Obake who light their way. The more powerful of these ghostly apparitions pull the Chōchin-Obake through with them so that the ghostly minions can illuminate the souls of the living.,"NJD203013
+Onryo",Kagejima,Complete,
+68,Bomechan,Dungeon Boss,IJIN Dungeon-Boss,Citrine,7,4,"Melee 2
+2R 2G",3B 1G,2B,3B,7,4,Super,"Predator, Rampage, Surefoot","(Red 2) A Tetsubo For Every Face: Melee 3, Burst 2
+
+(Blue 1) Show of Strength: Wave 2, STR vs WILL, Compel 1
+
+(Blue 1) Smoke Bomb: Augment, Aura 2, Stealth
+
+(Blue 1) Oni Call: Once per activation. Spawn one Ijin Oni adjacent to Bomechan.","Predator: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.vfc8urbsdv7g
+
+Rampage: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.l9bxdrrnwj62","Bomechan is a striking beauty of clan Ijin, but the pair of iron-spiked tetsubo, and her hearty laughter as she swings them, are her most arresting features. She loves a challenge, and she seeks to see herself on the Moon Throne, because she sees this as the greatest challenge of all.","NJD200006
+Devil Island",Kagejima,Testing,
+69,Claw Tribe War Mammoth,Hero,HUMAN MAMMOTH HERO,Emerald/Citrine,5,3,"Melee 2
+2R 1G",3B,2B,"Missile 4
+3B",7,1,,"Already Armed, Surefoot","(Red 1) Trunk Toss: Dangerous. Throw 4
+
+(Red 2) MAMMOTH STOMP: Melee 2, +1R STR, Massive Damage
+
+(Blue Potion) Mammoth Musk: Fury","Already Armed: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.n8ie7ppbs17
+
+Fury: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.vzhyo1rlk255
+
+Massive Damage: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.f7zrn8eyokn5
+
+Surefoot: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.lhfhjyk4tmjo
+
+Throw: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.vd162a31vqw0",,Claw Tribe War Mammoth,Dragonback Peaks,Draft,
+70,The Enchanter,Dungeon Boss,GNOME DUNGEON BOSS,Ruby,6,4,4R,1W 1B 1R 1G,"Magic 4
+2R 2G",3B,8,4,SUPER,Wonders For Sale,"(red 2) Ramming Speed!: Melee, Lance 6, Charge
+
+(red 2) Weight of Wonder: Magic 4, this offensive action gains +1R WILL and deals one additional wound for each treasure equipped to the target.
+
+(blue 1) Nibble The Toes!: All Boo Booties Heal 1 and then may make a basic offensive action.","Charge: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.wo11831matar
+
+Heal: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.evgkcvlle3v7
+
+Wonders For Sale: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.aja8qqk1tjq3",,The Enchanter,Castle Town,Draft,
+71,The Penitent Paladin,Hero,HUMAN HERO,Citrine/Sapphire,6,3,"Melee 1
+2R",2B 1R,3B,2B,5,1,,Blessed Strike,"(red 2) Smite: Melee 1, +1R STR, Knockdown, Fire
+
+(blue 1) Eat My Hat: Augment, Range 3, discard a ruby equipment card from the backpack to Heal 3. This action may only be taken once per turn.
+
+(green potion) We Will Deliver!: Augment, Favors of the Goddess","Favors of the Goddess: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.pswlfh6ax6sr
+
+Blessed Strike: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.acyoasvz6tow
+
+Heal: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.evgkcvlle3v7
+
+Knockdown: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.zcww99zo567
+
+Fire: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.eqc1r74zs1me",,,Castle Town,Draft,
+72,Princess Citrine,Hero,Human Hero,Citrine,6,3,"Melee 1
+2B1R",2R,2B,3B,6,1,,Military Acumen,"(red 2) Chain Gauntlet: Melee 5, +1R STR, Pull 4
+
+(blue 2) Tactical Positioning: Augment, Wave 3, Compel 3 
+
+(green potion) Soldier's Brew: Augment, Immune: Status Effects, +2B ARM  
+
+","Immune: Status Effects
+
+Military Acumen:","With her commanding presence, Citrine found her calling as a warrior and general. She possesses a keen insight for battlefield maneuvers, and her boisterous and bawdy personality ingratiated her immediately with the soldiery. Joining her father on many campaigns, her mere presence serves as a rallying cry to the soldiers of Crystalia and her strength at arms turns many a battle in the King’s favor.
+","NJD202069
+Princess Citrine",Clockwork Cove,Complete,
+73,Witch Exterminator,Hero,Human Hero,Citrine/Ruby,6,2,2B,3B,"Magic 5
+2R",1B1R,5,3,,"Potion Master, Stingy, Stocked","(blue 1) Brew Potion: Augment, This model gains one potion token.
+
+(red potion) Rat Bomb: Magic 3, Burst 1, +1R WILL, Poison
+
+(red potion) Corrosion Bomb: Magic 3, +1R WILL, Bane, Hex
+
+(blue potion) Vortex Bomb: Range 3, Burst 2, Artillery, Pull 1 ","Artillery:
+
+Poison:
+
+Potion Master:
+
+Stingy:
+
+Stocked:",Don't touch that! Do you want to blow us all to the Goddess!?,"NJD202072
+Witch Exterminator",Clockwork Cove,Complete,
+74,Musashi,Hero,Human Hero,Citrine,6,3,"Melee 2
+2B 1R",3B,1B1R,2B,5,1,,Mastery,"(red 2) Two Heavens: Melee, Lance 6, Charge
+
+(red 2) Martial Master: Melee 2, +1R STR, Feint
+
+(red potion) : Makeshift Weapon: Melee 6, Hookshot ","Charge:
+
+Feint:
+
+Hookshot:
+
+Mastery:
+","For years, Musashi has wandered Kagejima, studying, debating, and fighting with and alongside masters from every school he could find. After some years, he found that he no longer sought to master the sword; he sought to master himself. Since the tool no longer mattered, he abandoned his weapon for a pair of mighty oars. Now he travels on, searching for himself, and refining the art of the wooden blades.","NJD202062
+Musashi",Kagejima,Complete,
+75,Arashikage,Mini-Boss,Human Mini-Boss,Citrine,7,3,"Melee 1
+2B 2R",2B 1R,2B,2R,7,4,Super,"Backstabber, Counterstrike, Surefoot","(red 2) Cobra Strike: Melee 1, +1R STR, Improved Critical
+
+(red 2) Black Arrow: Missile, Lance 6, +3B DEX ","Backstabber:
+
+Counterstrike:
+
+Improved Critical:
+
+Surefoot:","""I can kill him, yes, but only if you tell me what I need to know.""","NJD204016
+Arashikage",Kagejima,Complete,
+76,Arashikage,Hero,Human Hero,Citrine,7,3,"Melee 1
+2B1R",3B,2B,2R,5,1,,"Counterstrike, Surefoot","(red 2) Cobra Strike: Melee 1, +1R STR, Improved Critical
+
+(red 2) Black Arrow: Missile 6, +2B DEX
+
+ (green potion) Betrayal Brew: Augment, Backstabber","Backstabber:
+
+Counterstrike:
+
+Improved Critical:
+
+Surefoot:","""I can kill him, yes, but only if you tell me what I need to know."" ","NJD204016
+Arashikage",Kagejima,Complete,
+77,Komuso,Hero,Human Hero,Sapphire/Ruby,6,3,"Melee 2
+3B",3B,2R,1B1R,5,1,,Blessed Strike,"(blue 1) Resolute Melody: Augment, Aura 3, +1B ARM
+
+(red 2) Haunting Melody: Magic 10, +1B WILL, Ice
+
+(blue potion) Elixir of Courage: Augment, Protector","Blessed Strike:
+
+Ice:
+
+Protector:","Komuso monks bring a calm demeanor and wise words wherever they go. Only the basest men fight for money, though, and Komuso will accept food or supplies, but no other material payment. Instead, they often demand favors, prayers, or offerings at certain shrines.","NJD202088
+Komuso",Kagejima,Complete,
+78,Akkorokamui,Hero,IKA HERO,Ruby,6,3,"Melee 2
+3B",2R,2B,"Missile 5
+2R",5,1,,Privateer,"(Red 2) Get Over Here!: Missile 5, +1G DEX, if the target suffers a wound and is not destroyed, place it adjacent to this model.
+
+(Red 2) Whirling Iron: Missile, Wave 1, Knockdown
+
+(Green Potion) The Ocean's Revenge: Augment. +1B ARM. Deadly Defense","Deadly Defense: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.n7699tmrvd9n
+
+Knockdown: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.zcww99zo567
+
+Privateer: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.5yqeqr3ttquk",,"NJD201507
+Clan Ika",Kagejima,Layout,"1.Akkorokamui
+2.Ika Chunin - Explore
+3.Ika Madoushi - Explore
+4.Ika Oni - Explore
+5.Ika Kunoichi - Explore
+6.Ika Kaiken - Explore
+7.Ika Yajiri - Explore
+8.Ika Chunin - Arcade
+9.Ika Madoushi - Arcade
+10.Ika Oni - Arcade
+11.The Kraken's Jaws - Arcade
+12. Squid Ink Potion"
+79,Yobuko,Mini-Boss,IJIN Mini-Boss,Citrine,6,3,"Melee 1
+2R 1G",2R,2B,3B,6,4,Super,"Brutality Aura, Improved Critical, Tough","(Red 2) Demon Rush: Melee, Lance 4, Charge
+
+(Red 2) Rampaging Fists: Melee, Wave 1, +1G STR
+
+(Blue 1) Demonic Challenge: Wave 3, STR vs WILL, Pull 2","Charge: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.wo11831matar
+
+Improved Critical: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.48o2ezf67jnx
+
+","Tall, strong, and fierce, Yobuko is also young and inexperienced compared to his Ijin counterparts. This blend of natural ability coupled with an, as yet, unrivaled capacity to fight might be the most frightening aspect about him. His power is already so incredible that he is the rival of many of his masters, and he is also constantly testing his mettle against full-blooded oni twice his size to the amazement of all of his clansmen.",Yobuko,Kagejima,Testing,
+80,Ijin Chunin,mini-boss,IJIN Mini-Boss,Citrine,6,3,"Melee 2
+2G",2B 1R,2B,3B,6,4,SUPER,Rampage,"(Red 2) Finish The Weak: Melee 2, this model gains +1B STR during this action for each wound on the target.
+
+(Red 2) Double Slash: Melee 2, Massive Damage, Brutal Strike
+
+(Blue 1) Battle Howl: Until the end of the turn, all friendly monsters gain red dice due to the Rampage ability instead of blue dice.
+","Brutal Strike: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.xcj34v6bwv8z
+
+Massive Damage: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.f7zrn8eyokn5
+
+Rampage: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.l9bxdrrnwj62","To the Ijin, strength is the ultimate test. Those who cannot fight cannot command respect. Those who cannot win cannot lead. Those who cannot lead must follow and serve those who can. An Ijin chunin has fought and won, and their brethren must follow and serve when the chunin commands.","NJD200006
+Devil Island",Kagejima,Testing,
+81,Ijin Kaiken,monster,IJIN MINION,Citrine,6,1,"Melee 1
+3B",1W,1B,3B,1,1,8-Bit,Rampage,"(Red 1) Shadow Strike: Melee, Lance 3, Charge",Rampage: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.l9bxdrrnwj62,"In the Ijin's harsh homeland, kaiken are common, as they are the foot soldiers of clan Ijin. The Ijin struggle and succeed every day through pure, raw strength. Shaped by darkness and sculpted by hard labor, they are tough, iron-fisted, and suffer no insult. Any who trespass or insult the Ijin will face the wrath of the kaiken, each warrior having earned their place in the ranks through a test of might. ","NJD200006
+Devil Island",Kagejima,Testing,
+82,Ijin Kunoichi,monster,IJIN ELITE,Citrine,7,2,"Melee 1
+3B",0W,2B,"Missile 4
+3B",1,1,8-Bit,"Rampage, Surefoot","(Red 2) Shuriken Storm: Missile, Sweep 3
+
+(Blue 1) Smoke Bomb: Augment, Aura 2, Stealth",Rampage: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.l9bxdrrnwj62,"The Ijin kunoichi are elite warriors. To join the ranks of the kunoichi, a kaiken must pass both a test of might, and a test of cunning. While the Ijin value strength above all else, the kunoichi are highly skilled in the most effective points to apply that strength. In other words, while all Ijin agree that smashing something is the best way to resolve a conflict, the kunoichi acknowledge that what you smash matters.","NJD200006
+Devil Island",Kagejima,Testing,
+83,Ijin Oni,monster,IJIN ELITE,Citrine,6,2,"Melee 3
+2B 1R",2R,1B,3B,2,2,16-Bit,"Bulwark, Frenzy, Rampage","(Red 2) To The Heavens: Melee, Sweep 2, Push 2, Immobile","Frenzy: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.memxjaz0eqms
+
+Immobile: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.yg34p2ijeteg
+
+Rampage: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.l9bxdrrnwj62","The void witches of the Ijin have bartered an unusual peace with the mighty oni that roam their lands. These oni are fearsome, brutal, and often wield mighty clubs in battle. They are ferocious allies for clan Ijin, and in many ways the Ijin share more similarities with these monstrous oni than they do the other clans.","NJD200006
+Devil Island",Kagejima,Testing,
+84,Ijin Yajiri,monster,IJIN MINION,Emerald,6,1,3B,0W,1B,"Missile 6
+3B",1,1,8-Bit,Poison,,Poison:,"The life of an Ijin is hard, brutal, and unforgiving. Often, Ijin warriors suffer crippling injuries that would relegate a member of any other clan to a life of bed-rest, or at least humble farming. When Ijin face such difficulties, they pick up a crossbow and join the ranks of the yajiri. These hardened and wizened veterans engage the enemy at range, stubbornly refusing to give up the fight, or leave it to younger warriors.","NJD200006
+Devil Island",Kagejima,Testing,
+85,Ijin Madoushi,spawning point,IJIN SPAWNING POINT,Citrine,2,1,3B,1W,1B,"Magic 3
+3B",3,2,START/16-Bit,"Active Spawn, Immune Status Effects, Rampage","(Blue 1) Blood Frenzy: All friendly monsters on this tile gain Improved Critical to all offensive actions for the remainder of the turn. Then, this model suffers one wound. (If this spawning point is destroyed, Heroes gain loot as normal.)","Improved Critical: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.48o2ezf67jnx
+
+Rampage: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.l9bxdrrnwj62
+
+Active Spawn: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.3ebd1h8ljyrv
+
+Spawning Pool: 
+1 x Ijin Madoushi
+1x Ijin Yajiri
+2x Ijin Kaiken
+2x Ijin Kunoichi
+1x Ijin Oni","Ijin Madoushi have learned some of the mystical ways of the void witches, and they use this power to stir their fellow Ijin into a blood frenzy, calling them to battle.","NJD200006
+Devil Island",Kagejima,Testing,
+86,Shinigami,Mini-Boss,Undead Mini-Boss,Amethyst,8,3,2B,2R,"Magic 2
+2W 1G",3B,6,4,SUPER,"Immune: Status Effects, Ghost","(Blue 2) Death Pact: Range 6, WILL vs WILL, Place a Death Pact token on the target. When a model with a Death Pact token inflicts a wound it also suffers a wound. The token is removed when Shinigami or the model is destroyed.
+
+(Red 2) Lifesap: Dangerous, Magic, Wave 1, For every wound inflicted by Lifesap, remove one wound token from Shinigami.
+
+","Ghost:
+
+Immune: Status Effects:","Few types of death spectre inspire such dread as Kagejima's shinigami. These deadly spirits lure victims into cursed pacts, offering up knowledge or power that inevitably leads to an unfortunate death. Indeed, so insidious and cruel are these pacts that many seek death in order to end the suffering their bargain causes.","NJD204012
+Shinigami",Kagejima,Complete,"1. Shinigami - Explore
+2. Shinigami - Arcade
+3. Death's Notebook - Treasure"
+87,Inu Clan Kaiken (Adzuki),Hero,Chimera Hero,Citrine,6,3,"2R
+Melee 1",3B,2B,3B,5,1,,Stay,"(Red 2) Chew to Pieces: Melee 1, +1R STR, Massive Damage
+
+(Red 2) Mark Territory: Melee 1, this attack inflicts three wounds and may only target Spawning Points.
+
+(Blue Potion) Water Bowl: Augment, Rampage","Massive Damage: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.f7zrn8eyokn5
+
+Rampage: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.l9bxdrrnwj62
+
+Stay: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.o04jcksq26f1",,"NJD200006
+Devil Island",Kagejima,Testing,
+88,Ondori Clan Kaiken (Kiji),Hero,Chimera Hero,Emerald,7,3,2B,3B,3B,"3B
+Missile 1",5,1,,Read The Wind,"(Red 2) The Cutting Wind: Missile, Wave 1
+
+(Red 2) Death From Above: Missile 1, +1R DEX, Pounce
+
+(Blue 1) Swoop In: Augment, Ranged 6, select another Hero. The selected Hero and this Hero trade places on the dungeon.
+
+(Blue Potion) Egg Soup: Fly, +1B DEX","Fly: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.h0plbx8biyjm
+
+Read The Wind: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.pjptr46c4hxo
+
+Pounce: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.4vqdu09hhhlg",,"NJD200006
+Devil Island",Kagejima,Testing,
+89,Formless Hanzo,Hero,Human Ika Hero,Ruby,6,3,"Melee 2
+2B 1R",3B,3B,2R,5,1,,"Immune: Fire, Formless","(Red 2) Leaping Yamame: Melee 1, +1B STR, Pounce
+
+(Red 2) Tidal Wave: Sweep 3, Knockdown
+
+(Blue Potion) Squid Ink: Augment, Stealth","Formless:
+
+Immune: Fire
+
+Knockdown:
+
+Pounce:
+
+Stealth:
+","""Be water, my friend.""","NJD202090
+Formless Hanzo",Kagejima,Complete,
+90,Blind Swordsman,Hero,Human Ronin Hero,Sapphire,6,3,"Melee 1
+2B 1R",3B,2R,3B,5,1,,"Feint, Uncanny Awareness","(Red 2) Perfect Strike: Melee 1, +1R STR, Oracle
+
+(Red 2) I Know You Are There: Melee, Wave 1
+
+(Blue Potion) Sunlight Draught: Augment, +1B ARM, Insight","Feint:
+
+Insight:
+
+Oracle:
+
+Uncanny Awareness:","""Why don’t you put that sword away before I am required to show you how to use it?""","NJD202075
+Blind Swordsman",Kagejima,Complete,
+91,Goemon,Hero,Human Ronin Hero,Citrine,6,3,"Melee 1
+2R",2R,3B,2B,5,1,,"Luck, Privateer","(Blue 1) Bring Him Here: Range 6, Pull 5
+
+(Red 2) I Always Escape: Melee 1, +2B STR, Retreat
+
+(Blue Potion) Celebratory Sake: Augment, Heal 1, Remedy","Heal:
+
+Luck:
+
+Privateer:
+
+Remedy:
+
+Retreat:","""Oh, ho, what’s this? A fat man with a fat purse; my favorite kind of stranger.""","NJD202074
+Goemon",Kagejima,Complete,
+92,Princess Emerald,Hero,Human Hero,Emerald,6,3,"Melee 1
+2B",3B,1B 1R,"Missile 8
+2B 1R",5,1,,Surefoot,"(Red 2) Shatter Shot: Missile 8, +1R DEX, Bane
+
+(Blue 1) Super Scope: Range 8, Mark
+
+(Green Potion) Tasty Rations: Augment, Heal 2","Bane:
+
+Heal:
+
+Mark:
+
+Surefoot:",Princess Emerald has always been the most free-spirited of the Crystalian Princesses. Holding a deep love for the forest she has developed a mastery of nature craft rivaled only by the elves.,"NJD202093
+Princess Emerald",Fae Wood,Layout,
+93,Nyan-Nyan,Hero,Freyjan Hero,Emerald,7,3,"Melee 1
+3B","2B
+(No Shield)",1B 1R,"Shield
+2R",5,1,,9 Lives,"(Red 2) Feline Ambush: Melee 1, Pounce, Retreat
+
+(Red 2) Freyjan Frenzy: Melee 1, +1R STR, Frenzy
+
+(Blue Potion) Frosty Kitty Bomb: Range 3, Burst 1, Ice
+","9 Lives:
+
+Frenzy:
+
+Ice:
+
+Pounce:
+
+Retreat:","""This is going to be so much FUN!""","NJD202092
+Nyan-Nyan",Frostbyte Reach,Layout,"1. Nyan-Nyan - Hero
+2. Chaos Kitty - Explore
+3. Chaos Kitty - Arcade
+4. Freyjan War Claws - Treasure"
+94,Chaos Kitty,Mini-Boss,Freyjan Mini-Boss,Emerald,7,3,"Melee
+3B 2R","2B
+(No Shield)",3B,"Shield
+1W 2R",6,4,SUPER,"9 Lives, Frenzy","(Red 2) Feline Ambush: Melee 1, Pounce, Retreat
+
+(Red 2) Chaos Fur'splosion: Melee, Wave 2
+
+(Blue 1) Naughty Kitty: Sweep 3, Poison","9 Lives:
+
+Frenzy:
+
+Poison:
+
+Pounce:
+
+Retreat:","""I was just playing with it and then it broke...""","NJD202092
+Nyan-Nyan",Frostbyte Reach,Layout,
+95,Springtime Druid,Hero,Fenneck Hero,Emerald,7,3,"Melee 1
+2B","2B
+(No Shield)","Magic 6
+2R","Shield
+2R",5,1,,Sidestep,"(Red 2) Break The Egg: Wave 1, Bane
+
+(Blue 1) Spring Bloom: Aura 3, Enemy model's treat the affected squares as Difficult Terrain.
+
+(Green Potion) Festival Egg: Augment, +2B to defense rolls. ","Bane:
+
+Sidestep:","The Festival of Spring is celebrated throughout Crystalia, each culture of the realms celebrating it in their own unique way. Overseeing the festivities are the Springtime Druids. These bright and cheerful druids serve as emissaries of the Deeproot Tree, pushing back the corruption of the Dark Consul and allowing new life to bloom. ","NJD202094
+Springtime Druid",Fae Wood,Layout,
+96,Ika Chunin,mini-boss,IKA MINI-BOSS,Ruby,6,3,"Melee 4
+5B",3B,3B,3B,7,4,SUPER,"Salty, Killamari","(Blue 1) Undertow: All enemies with at least one Tentacles token must choose to either suffer two wounds or immobile. This action may only be taken once per turn.
+
+(Red 2) The Raging Oceans: Melee 4, +1R STR, Massive Damage
+
+(Red 2) Sweeping Spear: Melee, Wave 4","Immobile: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.yg34p2ijeteg
+
+Massive Damage: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.f7zrn8eyokn5
+
+Salty: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.jsuwqjxidu6
+
+Killamari: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.oy9ca8ed4v8d",,Clan Ika,Kagejima,Layout,
+97,Ika Kaiken,monster,IKA MINION,Ruby,6,1,"Melee 1
+3B",1W,2B,2B,1,1,8-Bit,Salty,,Salty: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.jsuwqjxidu6,,Clan Ika,Kagejima,Layout,
+98,Ika Kunoichi,monster,IKA MINION,Ruby,6,2,3B,1W,2B,"Missile 3
+2R",2,2,8-Bit,Salty,"(Red 1) Tidal Wave: Magic, Wave 1
+
+(Red 1) Call of the Kraken: Magic 3, Massive Damage. This action may only target a model with at least one tentacles token.",Salty: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.jsuwqjxidu6,,Clan Ika,Kagejima,Layout,
+99,Ika Madoushi,spawning point,IKA SPAWNING POINT,Ruby,2,1,2B,1W,"Magic 6
+2R",2B,3,3,START/16-Bit,"Active Spawn, Killamari, Salty","(Blue 1) Foul Weather: Augment, Aura 8, Stealth","Killamari: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.oy9ca8ed4v8d
+
+Salty: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.jsuwqjxidu6
+
+Stealth: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.8b19gthw36yj
+
+Spawning Pool:
+1 x Ika Madoushi (spawning point)
+2 x Ika Kaiken
+1 x Ika Yajiri
+1 x Ika Oni
+1 x Ika Kunoichi",,Clan Ika,Kagejima,Layout,
+100,Ika Oni,monster,IKA ELITE,Ruby,6,3,"Melee 3
+1B 1G",1B 1G,4B,2B,3,3,16-Bit,Salty,"(Blue 1) Ink Cloud: WILL Vs. WILL, Wave 3, Hex
+
+(Red 2) Squidical Hit: Melee 3, +1R STR, Massive Damage, Slow","Killamari: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.oy9ca8ed4v8d
+
+Hex: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.40d66f1kcf9h
+
+Massive Damage: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.f7zrn8eyokn5
+
+Salty: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.jsuwqjxidu6
+
+Slow: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.smqjyeqc5qk8",,Clan Ika,Kagejima,Layout,
+101,Ika Yajiri,monster,IKA MINION,Ruby,6,1,2B,0W,2B,"Missile 6
+3B",1,1,8-Bit,Salty,,Salty: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.jsuwqjxidu6,,Clan Ika,Kagejima,Layout,
+102,Ridgeback Wyvern,mini-boss,DRAGON MINI-BOSS,Ruby/Citrine,7,3,"Melee 2
+3B",3B,"Magic 6
+2B 2R",3B,7,4,SUPER,"Fly, Hubris","(Blue 1) Screeching Call: Augment, Aura 3, other monsters gain +1B to offensive actions.
+
+(Red 2) Conflagration: Magic 6, Burst 1, Fire
+
+(Red 2) Rip, Tear, Bite: Melee 2, Massive Damage, Brutal Strike","Brutal Strike: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.xcj34v6bwv8z
+
+Fire: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.eqc1r74zs1me
+
+Fly: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.h0plbx8biyjm
+
+Hubris: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.51xroly9fat7
+
+Massive Damage: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.f7zrn8eyokn5",,Ridgeback Wyvern,Dragonback Peaks,Draft,
+103,Byakko,Hero,TORA HERO,Emerald,6,3,3B,3B,1B,"Missile 2
+2R",5,1,,"Ravage
+
+Toughened Scars: This Hero gains +1 Heart for each Princess Coin on it, in addition to any other benefit.","(Red 2) Swirling Claws: Missile 2, +1R DEX, after completing this attack, this model may move up to 3 squares.
+
+(Blue 1) Beastial Healing: Augment. Roll this Hero's WILL and Heal 1 for each star rolled.
+
+(Blue Potion) Tears of Anger: Augment. Discard one equipment card from the backpack in order for this Hero to make up to two basic offensive actions.",,,,,Testing,
+104,Tora Chunin,mini-boss,TORA MINI-BOSS,Citrine,5,3,"Melee 2
+2B 1R",2R,2R,3B,8,4,SUPER,"Ravage, Selfless","(Blue 1) Mighty Challenge: Range 6, WILL Vs. WILL, Pull 6, when the target finishes its move, this model may make a basic offensive action against it.
+
+(Red 2) The Way of The Blade: Melee 2, +1G STR
+
+(Red 2) Leaping Strike: Melee, Lance 6, Charge, +1R STR
+",,,,,Draft,
+105,Tora Kaiken,monster,TORA MINION,Citrine,5,1,"Melee 1
+3B",1W,1B,3B,1,1,8-Bit,Ravage,,,,,,Testing,
+106,Tora Kunoichi,monster,TORA MINION,Citrine,5,2,"Melee 1
+3B",1W,2B,3B,2,2,8-Bit,"Ravage, Predator","(Blue 1) Whispered Words: WILL Vs. Will, Range 4, Compel 4
+
+(Red 2) Test of Honor: Melee 1, +1R STR",,,,,Testing,
+107,Tora Madoushi,spawning point,TORA SPAWNING POINT,Citrine,2,1,"Melee 1
+3B",1W,1B,3B,4,3,START/16-Bit,"Active Spawn, Ravage","(Blue 1) For The Clan!: Until the end of the turn, when a friendly monster on this tile would suffer a wound due to its Ravage ability, this spawning point may suffer it instead.",,,,,Testing,
+108,Tora Oni,monster,TORA ELITE,Citrine,5,3,"Melee 3
+1B 2R",2B 1R,1B,3B,3,3,16-Bit,"Ravage, Predator","(Red 2) The Perfect Cut: Melee 3, +1R STR, Push 4
+
+(Red 2) Away Insects!: Melee, Wave 3",,,,,Testing,
+109,Tora Yajiri,monster,TORA MINION,Emerald,5,1,3B,0W,1B,"Missile 5
+3B",1,1,8-Bit,Ravage,,,,,,Testing,
+110,Chuy,Hero,Human Hero,Sapphire,6,3,"Melee 1
+3B",2B1R,3B,"Missile 6
+3B",5,1,,Privateer,"(red 2) Pistols Blazing: Missile 6, +1B DEX, Arc
+
+(red 2) Flame Burst: Missile, Sweep 2, Fire
+
+(red potion) Sniper Rounds: Missile 10, +1G DEX, Massive Damage
+","Arc:
+
+Fire:
+
+Massive Damage:
+
+Privateer:","""That's not a toy.""","NJD202087
+Chuy and Apprentice Mage",Arcadian Dunes,Complete,
+111,Apprentice Mage,Hero,Misfit Hero,Sapphire/Ruby,5,3,1B,3B,3B2R,2B,3,1,,"Healer, Defenseless, Small","(blue 1) Stay There: Range 6, WILL vs WILL, Immobile
+
+(blue 3) Life Force: Augment, Range 1, Heal 5, Remedy
+
+(blue potion) Toad Broth: Augment, During its activation this model may use its WILL to make Magic 8 basic attacks.","Defenseless:
+
+Healer:
+
+Immobile:
+
+Remedy:
+
+Small:
+
+","""Adorable? No doubt. Defenseless? That's pushing it."" ","NJD202087
+Chuy and Apprentice Mage",Arcadian Dunes,Complete,
+112,Bakusho Mondai,Hero,Human Hero,Sapphire,6,3,"Melee 1
+2R",3B,3B,1B1R,5,1,,"Sidestep, Tough","(blue 2) Smooth Moves: Dangerous, Wave 2, Remove all affected models from the dungeon, then place them in any legal square within the area of effect.
+
+(blue 1) Uncomfortable Closeness: Once per activation, Dangerous, Range 6, Move this model into a square adjacent to the target. 
+
+(red potion) Fireworks: Magic, Wave 1, +1R WILL","Sidestep:
+
+Tough:","Bakusho Mondai’s gregarious nature and boisterous personality made him a natural master of festivals and celebrations. For the right price, he is eager to join adventuring parties and lend his dance-kata and fireworks, exquisitely choreographed to the thumping rhythm of taiko drums.","NJD202047
+Bakusho Mondai",Kagejima,Complete,
+113,Dark Kitsune,mini-boss,KITSUNE MINI-BOSS,Emerald,6,4,2R,2B 1R,3B,"Missile 4
+2R",7,4,SUPER,Surefoot,"(Red 2) Massive Ninja Star To The Face: Melee 1, +1B STR, Massive Damage
+
+(Red 1) Let Them Come: Melee, Wave 1
+
+(Blue 1) Foxy: Augment, Aura 3, Stealth",,"Some Kitsune are ill-suited for life beneath their clan’s shadowed trees. Dark Kitsune dream of a wider world, and long to see its wonders.  They take their clan’s skills in herbalism and magic with them, of course, and most parlay these talents into lucrative employment. They rarely have trouble finding warriors willing to pay their sometimes outlandish fees.",Dark Kitsune,Kagejima,Complete,
+114,Spider Guild Otaku,Hero,Nether Elf Hero,,,,,,,,,,,,,,,"NJD202073
+Spider Guild Otaku",Castle Town,Draft,
+115,Pauper Prince,Dungeon Boss,Troll Dungeon Boss,,,,,,,,,,,,,,,"NJD203012
+Pauper Prince",Clockwork Cove,Draft,
+116,Deeproot Scout,Hero,Elf Hero,Emerald,7,3,"Melee 1
+3B",3B,2B,"Missile 6
+3B",5,2,,,"(Red 2) Acorn Bomb: Dangerous, Melee 6, Burst 1, Knockdown
+
+(Blue 2) Boomerang: Range 6, Hookshot, Place target treasure chest adjacent to Deeproot Scout.
+
+(Green Potion) Bottled Faerie: Augment, Heal 2
+
+(Blue Potion) Sprite Syrup: Augment, +1 Action","Heal X:
+
+Hookshot:
+
+Knockdown:",Hero Flavor Doc,"NJD210207
+Caverns of Roxor",Dragonback Peaks,Complete,
+117,Princess Ruby,Hero,Human Hero,Ruby,6,3,2B,"2B
+","Magic 6
+3B","Shield
+2B 1R",5,1,,"Healer, Sidestep","(Blue 1) Maiden's Favor: Augment, Range 6, +1B STR
+
+(Blue 1) Maiden's Token: Augment, Range 6, +1B WILL
+
+(Blue 2) Maiden's Kiss: Augment, Range 1, Regenerate
+
+(Blue Potion) Dress-up Draught: Choose two Heroes, they may exchange one piece of equipment.","Heal X:
+
+Healer:
+
+Regenerate:
+
+Sidestep:",Hero Flavor Doc,"NJD210207
+Caverns of Roxor",Dragonback Peaks,Complete,
+118,Star Guild Sapper,Hero,Dwarf Hero,Citrine,6,3,"Melee 2
+2B 1R",3B,3B,2B,6,1,,Immune: Knockdown,"(Red 2) Astral Hammer: Melee, Cross 2, Knockdown
+
+(Red 2) POW!: Melee 2, +1R STR, Massive Damage
+
+(Blue 1) Star Shine: Augment, Immune: Status Effects
+
+(Red Potion) Burning Bloom: Dangerous, Melee, Wave 1, Fire","Fire:
+
+Immune: Status Effects
+
+Knockdown
+
+Massive Damage",Hero Flavor Doc,"NJD210207
+Caverns of Roxor",Dragonback Peaks,Complete,
+119,Rock Gut,Mini-Boss,Troll Mini-Boss,Sapphire,6,3,"Melee 2
+1W 3B 1R",2B 2R,1B,2B,5,4,SUPER,"Fire, Immune: Fire, Tough","(Red 2) Burning Bile: Melee, Lance 6
+
+(Red 2) Feast: Melee 2, +1 STR, If Feast inflicts a wound, remove one wound token from Rock Gut.","Fire:
+
+Immune: Fire
+
+Tough:",Monster Flavor Doc,"NJD210207
+Caverns of Roxor",Dragonback Peaks,Complete,
+120,Lava Whirl,Spawning Point,Spawning Point,Citrine,-,-,-,1W,-,-,3,-,START,"Immune: Status Effects, Fire Aura","Spawning Pool:
+1x Lava Whirl (Spawning Point)
+1x Blaze Beetle
+2x Ember Hound
+3x Burning Gel
+6x Fire Gel","Immune: Status Effects
+
+Fire Aura",Monster Flavor Doc,"NJD210207
+Caverns of Roxor",Dragonback Peaks,Complete,
+121,Blaze Beetle,Monster,Elemental Bug Elite,Citrine,6,3,"Melee 3
+2B 1R",1W 1R,2B,2B,3,2,16-Bit,"Immune: Fire, Burrow","(Red 2) Furnace Vent: Melee, Cross 3, Fire
+
+(Blue 1) Burning Chitin: Augment, Backlash","Backlash:
+
+Burrow:
+
+Fire:
+
+Immune: Fire",Monster Flavor Doc,"NJD210207
+Caverns of Roxor",Dragonback Peaks,Complete,
+122,Ember Hound,Monster,Elemental Wolf Elite,Emerald,8,1,"Melee 1
+2R",1W,2B,3B,1,1,8-Bit,"Immune: Fire, Stealth","(Red 1) Sickening Smoke: Melee, Wave 1, Poison
+
+(Blue 1) Ash Cloud: Augment, Aura 2, Stealth","Immune: Fire
+
+Poison:
+
+Stealth:",Monster Flavor Doc,"NJD210207
+Caverns of Roxor",Dragonback Peaks,Complete,
+123,Burning Gel,Monster,Elemental Slime Minion,Ruby,6,2,"Melee 1
+3B",0W,"Magic 6
+3B",1B 1R,1,2,8-Bit,"Fire, Immune: Fire, Splurt","(Red 2) Splort: Magic 6, Burst 1, +1R WILL","Fire:
+
+Immune: Fire
+
+Splurt:",Monster Flavor Doc,"NJD210207
+Caverns of Roxor",Dragonback Peaks,Complete,
+124,Fire Gel,Monster,Elemental Slime Minion,Citrine,6,1,"Melee 1
+3B",0W,3B,1B 1R,1,1,8-Bit,"Fire, Immune: Fire, Insignificant, Little Splurt, Small",,"Fire:
+
+Immune: Fire
+
+Insignificant:
+
+Little Splurt:
+
+Small:",Monster Flavor Doc,"NJD210207
+Caverns of Roxor",Dragonback Peaks,Complete,
+125,Rock Pile,Monster,Paired Spawning Point,Ruby,-,-,-,1W,-,-,4,-,START,"Immune: Status Effects, Rock Aura","Spawning Pool:
+2x Rock Pile (Paired Spawning Point)
+1x Crusher
+2x Roller
+2x Bombardier
+6x Slowpoke
+6x Turtle Shell","Immune: Status Effects
+
+Rock Aura:",Monster Flavor Doc,"NJD210207
+Caverns of Roxor",Dragonback Peaks,Complete,
+126,Crusher,Monster,Rocktop Elite,Sapphire,5,3,"Melee 2
+2B 1R",1W 2B,3B,1B,4,2,16-Bit,"Immune: Status Effects, Bulldozer","(Red 1) Thwack: Dangerous, Throw 6
+
+(Red 2) Turtle Tremor: Melee, Wave 3, +1B STR for every Turtle Shell within the area effect.
+
+(Blue 1) No Hiding: Augment, Wave 2, Replace each Turtle Shell in the area with a Rocktop model from the spawning pool with a skull value of 2 or less.","Bulldozer:
+
+Immune: Status Effects
+
+Throw X:",Monster Flavor Doc,"NJD210207
+Caverns of Roxor",Dragonback Peaks,Complete,
+127,Roller,Monster,Rocktop Elite,Sapphire,6,2,"Melee 1
+2R",1W,3B,2B,2,2,8-Bit,"Immune: Knockdown, Immune: Slow, Shell","(Red 1) Thwack: Dangerous, Throw 4","Immune: Knockdown
+
+Immune: Slow
+
+Shell:
+
+Throw:",Monster Flavor Doc,"NJD210207
+Caverns of Roxor",Dragonback Peaks,Complete,
+128,Bombardier,Monster,Rocktop Elite,Sapphire,5,1,"Melee 1
+1B",1W,3B,1B,1,1,8-Bit,"Immune: Knockdown, Immune: Slow, Shell","(Red 1) Cannon: Missile 10, +2B DEX
+
+(Red 1) Turtle Cannon: Dangerous, Throw 6, Burst 2. Burst is centered on the thrown model. After resolving Turtle Cannon the thrown model is destroyed.","Immune: Knockdown
+
+Immune: Slow
+
+Shell:
+
+Throw:",Monster Flavor Doc,"NJD210207
+Caverns of Roxor",Dragonback Peaks,Complete,
+129,Slowpoke,Monster,Rocktop Minion,Sapphire,5,1,"Melee 1
+3B",1W,3B,1B,1,1,,"Immune: Knockdown, Immune: Slow, Burrow, Shell",,"Burrow:
+
+Immune: Knockdown
+
+Immune: Slow
+
+Shell:
+
+Throw:",Monster Flavor Doc,"NJD210207
+Caverns of Roxor",Dragonback Peaks,Complete,
+130,Turtle Shell,Monster,Rocktop Minion,Sapphire,-,-,-,2W,-,-,2,-,SPECIAL,"Immune: Status Effects, Insignificant",Turtle Shells may no be spawned and may only enter play through the Shell ability.,"Immune: Status Effects
+
+Insignificant",Monster Flavor Doc,"NJD210207
+Caverns of Roxor",Dragonback Peaks,Complete,
+131,Testudo Tower,Dungeon Boss,Rocktop Dungeon Boss,Sapphire,4,4,"Melee 2
+1W 3R","Shield
+2W 2R 1G",3B,2B,8,4,SUPER,"Immune: Status Effects, Bulldozer, Sturdy","(Red 1) Turtle Tosser: Dangerous, Throw 6, Knockdown
+
+(Red 2) Shell Shock: Melee, Lance 10, Knockdown, Charge
+
+(Red 2) Booming Bombards: Missile 10, Burst 3, +2G DEX","Bulldozer:
+
+Charge:
+
+Immune: Status Effects
+
+Sturdy:
+
+Throw:",Monster Flavor Doc,"NJD210209
+Testudo Tower",Dragonback Peaks,Complete,
+132,Demolitions Expert,Creep,Rocktop Creep,Citrine,5,1,2B,"Shield
+0W",2B,1B,1,0,8-Bit,"Immune: Slow, Insignificant, Volatile","(Red 1) Kaboom: Melee, Wave 1, +2R STR, Push 2, Knockdown. Remove Demolitions Expert from play after resolving Kaboom. Volatile is not triggered by Kaboom.
+
+Toss Me: If this model is targeted by an action with Throw, after resolving the results of the action, destroy this model. Volatile is triggered by Toss Me.","Immune: Slow
+
+Insignificant:
+
+Knockdown:
+
+Volatile",Monster Flavor Doc,"NJD210209
+Testudo Tower",Dragonback Peaks,Complete,
+133,Deeproot Scout,Hero,,Emerald,,,,,,,,,,,,,,"NJD200007
+Rocktop Rumble",Dragonback Peaks,Testing,
+134,Princess Ruby,Hero,,Ruby,,,,,,,,,,,,,,"NJD200007
+Rocktop Rumble",Dragonback Peaks,Testing,
+135,Star Guild Sapper,Hero,,Citrine,,,,,,,,,,,,,,"NJD200007
+Rocktop Rumble",Dragonback Peaks,Testing,
+136,Rocktop Queen,Hero,,Citrine,,,,,,,,,,,,,,"NJD200007
+Rocktop Rumble",Dragonback Peaks,Testing,
+137,Rock Gut,Mini-Boss,,Ruby,,,,,,,,,,,,,,"NJD200007
+Rocktop Rumble",Dragonback Peaks,Testing,
+138,Lava Whirl,Spawning Point,,Ruby,,,,,,,,,,,,,,"NJD200007
+Rocktop Rumble",Dragonback Peaks,Testing,
+139,Blaze Beetle,Monster,,Ruby,,,,,,,,,,,,,,"NJD200007
+Rocktop Rumble",Dragonback Peaks,Testing,
+140,Ember Hound,Monster,,Ruby,,,,,,,,,,,,,,"NJD200007
+Rocktop Rumble",Dragonback Peaks,Testing,
+141,Burning Gel,Monster,,Ruby,,,,,,,,,,,,,,"NJD200007
+Rocktop Rumble",Dragonback Peaks,Testing,
+142,Fire Gel,Monster,,Ruby,,,,,,,,,,,,,,"NJD200007
+Rocktop Rumble",Dragonback Peaks,Testing,
+143,Rock Pile,Monster,,Citrine,,,,,,,,,,,,,,"NJD200007
+Rocktop Rumble",Dragonback Peaks,Testing,
+144,Crusher,Monster,,Citrine,,,,,,,,,,,,,,"NJD200007
+Rocktop Rumble",Dragonback Peaks,Testing,
+145,Roller,Monster,,Citrine,,,,,,,,,,,,,,"NJD200007
+Rocktop Rumble",Dragonback Peaks,Testing,
+146,Bombardier,Monster,,Citrine,,,,,,,,,,,,,,"NJD200007
+Rocktop Rumble",Dragonback Peaks,Testing,
+147,Slowpoke,Monster,,Citrine,,,,,,,,,,,,,,"NJD200007
+Rocktop Rumble",Dragonback Peaks,Testing,
+148,Turtle Shell,Monster,,Citrine,,,,,,,,,,,,,,"NJD200007
+Rocktop Rumble",Dragonback Peaks,Testing,
+149,Testudo Tower,Dungeon Boss,,Citrine,,,,,,,,,,,,,,"NJD200007
+Rocktop Rumble",Dragonback Peaks,Testing,
+150,Demolitions Expert,Creep,,Citrine,,,,,,,,,,,,,,"NJD200007
+Rocktop Rumble",Dragonback Peaks,Testing,
+151,Momotaru,Hero,Human Hero,Citrine,6,3,"3B
+Melee 2",2R,3B,2B,5,1,,Counterstrike,"(Red 2) Shooting Star: Melee 2, +1R STR, Knockdown, Push 5
+
+(Red 2) Coordinated Strike: Melee 2, if this attack succeeds, every friendly model within range may also make an attack against the target.
+
+(Green Potion) Peach Tea: Augment, Roll 2B and Heal 1 for each star rolled.","Counterstrike: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.j1v4t2yw1oeb
+
+Knockdown: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.zcww99zo567
+
+Heal: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.evgkcvlle3v7",,"NJD200006
+Devil Island",Kagejima,Testing,
+152,Saru Clan Miko,Hero,Chimera Hero,Ruby,6,3,2B,3B,"2R
+Magic 4",3B,5,1,,Monkey Tail,"(Red 2) Vicious Taunts: Magic 4, +1R WILL, Hex
+
+(Blue 2) Get Your Paws Off Me: Wave 2, WILL Vs. WILL, Immobile
+
+(Blue 1) Monkey Business: Range 4, select a token on the dungeon map within range, move the token up to 4 squares.
+
+(Green Potion) Banana Pudding: Augment, Sturdy, Remedy","Hex: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.40d66f1kcf9h
+
+Immobile: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.yg34p2ijeteg
+
+Monkey Tail: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.9dw5wwqrle1o
+
+Remedy: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.tj4pfn7ru74j
+
+Sturdy: https://docs.google.com/document/d/1Lxyg7DaD-QgalB949itOUuGDhsIJrsiK96A9V690h-Y/edit#bookmark=id.psumvhstcgj7",,"NJD200006
+Devil Island",Kagejima,Testing,
+153,Star Princess Candy,Hero,Human Hero,Sapphire,6,3,2B,3B,2R,"2R
+Missile 6",5,1,,Dungeon Map,"(Blue 2) Cunning Strategist: Wave 3, WILL v WILL, Compel 2
+
+(Red 2) Rebel Shot: Missile 6, +1R DEX, Hookshot
+
+(Blue Potion) Star Wine: Augment, Aura 3, +1B ARM","Dungeon Map
+
+Hookshot","The ultimate rebel, Star Princess Candy fights for what is right throughout Crystalia with boldness, determination, and a knack to get out of the toughest situations.",,,,
+154,Pauper Prince,Dungeon Boss,Troll Dungeon Boss,Citrine,5,4,,,,,,,,,,,,,,,
+155,Cove Rat,Creep,Rat Creep,Citrine,8,,,,,,,,,,,,,,,,
+156,Moffet,Monster,Goblin Elite,Citrine,7,,,,,,,,,,,,,,,,
+157,Fetcher,Monster,Goblin Minion,Citrine,7,,,,,,,,,,,,,,,,
+158,Trawler,Monster,Goblin Minion,Citrine,7,,,,,,,,,,,,,,,,
+159,Refuse Pipe,Spawning Point,Spawning Point,Citrine,-,-,-,1W,-,-,3,-,START,,,"Spawning Pool:
+1x Refuse Pipe (Spawning Point)
+1x Moffet
+2x Trawler
+4x Fetcher",,,,,
+160,Celestian Purifier,Hero,Celestian Hero,Sapphire,,,,,,,,,,,,,,,,,
+161,Virtuous Blade,Hero,Human Hero,Sapphire,,,,,,,,,,,,,,,,,
+162,White Knight Candy,Hero,Human Hero,Ruby,,,,,,,,,,,,,,,,,
+163,Lunar Mage,Hero,Elf Hero,Sapphire,,,,,,,,,,,,,,,,,
+164,Crystalian Huntmaster,Hero,Human Hero,Emerald,,,,,,,,,,,,,,,,,
+165,Chained Knight,Mini-Boss,Demon Mini-Boss,Amethyst,,,,,,,,,,,,,,,,,
+166,Master of Chains,Mini-Boss,Riftling Mini-Boss,Amethyst,,,,,,,,,,,,,,,,,
+167,Araphel,Dungeon Boss,Demon Dungeon Boss,Amethyst,,,,,,,,,,,,,,,,,
+168,Spawn of Servitude,Spawning Point,Spawning Point,Amethyst,,,,,,,,,,,,,,,,,
+169,Head Nurse,Monster,Succubus Elite,Amethyst,,,,,,,,,,,,,,,,,
+170,Candy Striper,Monster,Succubus Minion,Amethyst,,,,,,,,,,,,,,,,,
+171,Wretch,Monster,Demon Minion,Amethyst,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,Celestial Herald,Hero,Celestian Hero,"Emerald
+Ruby",7,3,2B,"Shield
+1B","Shield
+2R","Missile
+3B",5,1,-,"Immune: Knockdown, Fly","(Red 2) Divine Arrow: Missile, Lance 8
+
+(Red 2) Heart Seeker: Missile 8, +2B DEX, Hookshot
+
+(Green Potion) Halo Extract: Augment, Aura 3, +1W ARM","Hookshot
+
+Immune: Knockdown
+
+Fly",Hero Flavor Doc,"SPM210304
+Von Drakk Manor",Glauerdoom ,Complete,
+,Sister of Light,Hero,Human Hero,"Sapphire
+Ruby",6,3,"Melee 1
+2R","Shield
+3B",2R,2B,5,2,-,"Healer, Holy","(Red 2) Judgment: Melee, Cross 4, Hex
+
+(Blue 1) Purification: Augment, Cross 2, Heal 1
+
+(Blue Potion) Elixir of Light: Augment, +1B WILL, Remedy, Holy","Heal:
+
+Healer:
+
+Holy:
+
+Remedy:",Hero Flavor Doc,,,,
+,Von Wilding,Hero,Human Hero,"Citrine
+Emerald",,,,,,,,,,,,,,,,,

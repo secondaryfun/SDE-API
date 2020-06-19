@@ -6,7 +6,7 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-flask-peewee = {editable = true, git = "https://github.com/coleifer/flask-peewee.git"}
+flask-peewee = {git = "https://github.com/coleifer/flask-peewee.git",editable = true}
 psycopg2-binary = "*"
 flask-admin = "*"
 flask-security = "*"
