@@ -11,6 +11,8 @@ psycopg2-binary = "*"
 flask-admin = "*"
 flask-security = "*"
 email-validator = "*"
+peewee = "*"
+python-dotenv = "*"
 
 [requires]
 python_version = "3.8"
