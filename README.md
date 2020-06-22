@@ -7,7 +7,7 @@ This API has a list of heroes and monsters from the Super Dungeon Universe.
 ## The root path for this version of your API
 
 ```
-https://SPM-API.herokuapp.com
+https://sde-api.herokuapp.com
 ```
 ## Authentification.
 
@@ -27,30 +27,30 @@ https://SPM-API.herokuapp.com
 
 * GET /explorecard/  -  Returns a list of all categories and subcategories.
 ```
-    https://SPM-API.herokuapp.com/explorecard/
+    https://sde-api.herokuapp.com/explorecard/
 ```
 
 * GET /explorecard/cardID  -  Returns the explorecard with _id = cardID.
 ```
-    https://SPM-API.herokuapp.com/explorecard/5
+    https://sde-api.herokuapp.com/explorecard/5
 ```
 
 * GET /explorecard/name/  -  Returns a list of all categories and subcategories.
 ```
-    https://SPM-API.herokuapp.com/explorecard/name/
+    https://sde-api.herokuapp.com/explorecard/name/
 ```
 
 * GET /explorecard/name/<cardname>  -  Returns the explorecard with name = cardname.
 ```
-    https://SPM-API.herokuapp.com/explorecard/name/Moon Princess
+    https://sde-api.herokuapp.com/explorecard/name/Moon Princess
 ```
 
 * GET /explorecard/type/  -  Returns a list of all categories and subcategories.
 ```
-    https://SPM-API.herokuapp.com/explorecard/type/
+    https://sde-api.herokuapp.com/explorecard/type/
 ```
 
 * GET /explorecard/type/<cardtype>  -  Returns the explorecard with type = cardtype.
 ```
-    https://SPM-API.herokuapp.com/explorecard/type/Monster
+    https://sde-api.herokuapp.com/explorecard/type/Monster
 ```

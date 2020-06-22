@@ -10,7 +10,6 @@ class BaseModel(Model):
     class Meta:
         database = db
 
-
 class ExploreCard(BaseModel):
     name = CharField(null=False)
     sort = CharField(null=True)
@@ -32,14 +31,3 @@ class ExploreCard(BaseModel):
     product = CharField(null=True)
     realm = CharField(null=True)
     status = CharField(null=True)
-
-# class User(db.Model, BaseUser):
-#     username = CharField()
-#     password = CharField()
-#     email = CharField()
-#     join_date = DateTimeField(default=datetime.datetime.now)
-#     active = BooleanField(default=True)
-#     admin = BooleanField(default=True)
-
-#     def __unicode__(self):
-#         return self.username
