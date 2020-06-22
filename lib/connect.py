@@ -2,7 +2,7 @@ from peewee import *
 from dotenv import load_dotenv
 import os
 
-project_folder = os.path.expanduser('../')
+project_folder = os.path.expanduser('~/coding/sei/projects/SDE-API/lib/')
 load_dotenv(os.path.join(project_folder, '.env'))
 
 DB_PASS = os.getenv('DB_PASS')
