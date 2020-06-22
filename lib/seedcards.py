@@ -9,8 +9,8 @@ from connect import db
 
 tables = [ExploreCard]
 
-db.drop_tables(tables)
-db.create_tables(tables)
+# db.drop_tables(tables)
+# db.create_tables(tables)
 
 with open('./explorecards.json') as json_data:
     card_list = json.load(json_data)
