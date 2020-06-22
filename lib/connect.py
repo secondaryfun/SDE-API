@@ -1,6 +1,7 @@
 from peewee import *
 from dotenv import load_dotenv
 import os
+from flask import Flask
 
 project_folder = os.path.expanduser('~/coding/sei/projects/SDE-API/lib/')
 load_dotenv(os.path.join(project_folder, '.env'))
@@ -15,3 +16,5 @@ db = PostgresqlDatabase('d547nnloq163dj', user=DB_USER,
 # db = PostgresqlDatabase('spm', user='postgres',
 #                         password='password', host='localhost', port=5432)
 db.connect()
+
+app = Flask(__name__)
