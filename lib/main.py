@@ -73,14 +73,8 @@ app.run(port=5000, debug=True)
 from models import *
 from views import *
 
-# admin.setup()
-api.setup()
-
-
 def create_tables():
-    # db.database.create_tables([User], safe=True)
     db.database.create_tables([ExploreCard], safe=True)
-
 
 if __name__ == '__main__':
     create_tables()
